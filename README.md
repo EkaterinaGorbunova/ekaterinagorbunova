@@ -2,7 +2,6 @@
 I'm a Full Stack Software Developer who enjoys working on both the front and back ends. I have experience with a variety of technologies, making me adaptable and ready to contribute to diverse projects.
 
 🚀 Key Skills
-
 - **Frontend Development:** NextJS, React, JavaScript, Tailwind CSS
 - **Backend Development:** NodeJS, Socket.IO (WebSocket), REST APIs, Docker
 - **Hosting and Deployment:** Vercel, Amplify, Netlify, Heroku
@@ -11,6 +10,8 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 - **Backend Game Development:** Unreal Engine, Pixel Streaming, Dedicated Game Servers, Inno Setup scripting (for distributing games)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EkaterinaGorbunova)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ekaterina-gorbunova-b57582133/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_KateDev)  
 
 <!--
 **EkaterinaGorbunova/ekaterinagorbunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

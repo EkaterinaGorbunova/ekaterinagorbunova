@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&hide_progress=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekaterinagorbunova)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **EkaterinaGorbunova/ekaterinagorbunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

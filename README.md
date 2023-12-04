@@ -9,10 +9,10 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 - **Blockchain:** Web3, Ethereum, NFT, OpenSea, Infura, Polygon, IPFS, Pinata, Hardhat, Truffle, Solidity, Smart Contracts
 - **Backend Game Development:** Unreal Engine, Pixel Streaming, Dedicated Game Servers, Inno Setup scripting (for distributing games)
 
-- 🌱 I’m currently learning TypeScript and React Native
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed)-->
+
+🌱 I’m currently learning TypeScript and React Native
 
 ##
 [<img src='https://img.shields.io/badge/LinkedIn-Blue?style=social&logo=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/ekaterina-gorbunova-b57582133/)

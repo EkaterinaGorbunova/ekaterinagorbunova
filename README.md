@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Kate
 I'm a Full Stack Software Developer who enjoys working on both the front and back ends. I have experience with a variety of technologies, making me adaptable and ready to contribute to diverse projects.
 
-## 🚀 Key Skills
+## 🚀Skills
 - **Frontend Development:** NextJS, React, JavaScript, Tailwind CSS
 - **Backend Development:** NodeJS, Socket.IO (WebSocket), REST APIs, Docker
 - **Hosting and Deployment:** Vercel, Amplify, Netlify, Heroku

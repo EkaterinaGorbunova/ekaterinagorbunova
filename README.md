@@ -16,7 +16,6 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 
 ##
 [<img src='https://img.shields.io/badge/LinkedIn-Blue?style=social&logo=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/ekaterina-gorbunova-b57582133/)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ekaterinagorbunova&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **EkaterinaGorbunova/ekaterinagorbunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,7 +11,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed)
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/EkaterinaGorbunova)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='border: 2px solid white;'>](https://github.com/EkaterinaGorbunova)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ekaterina-gorbunova-b57582133/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_KateDev)  
 
 <!--

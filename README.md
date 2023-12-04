@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Kate
 I'm a Full Stack Software Developer who enjoys working on both the front and back ends. I have experience with a variety of technologies, making me adaptable and ready to contribute to diverse projects.
 
-#
-### 🚀 Key Skills
+## 🚀 Key Skills
 - **Frontend Development:** NextJS, React, JavaScript, Tailwind CSS
 - **Backend Development:** NodeJS, Socket.IO (WebSocket), REST APIs, Docker
 - **Hosting and Deployment:** Vercel, Amplify, Netlify, Heroku
@@ -12,7 +11,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed)
 
-#
+##
 [<img src='https://img.shields.io/badge/LinkedIn-Blue?style=social&logo=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/ekaterina-gorbunova-b57582133/)
 
 <!--

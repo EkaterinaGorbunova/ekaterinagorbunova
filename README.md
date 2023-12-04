@@ -3,6 +3,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunovaa&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **EkaterinaGorbunova/ekaterinagorbunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kate
+### Hi there 👋, I'm Ekaterina
 I'm a Full Stack Software Developer who enjoys working on both the front and back ends. I have experience with a variety of technologies, making me adaptable and ready to contribute to diverse projects.
 
 ## 🚀 Skills

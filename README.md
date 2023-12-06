@@ -2,7 +2,43 @@
 I'm a Full Stack Software Developer who enjoys working on both the front and back ends as well as cloud solutions. I have experience with a variety of technologies, making me adaptable and ready to contribute to diverse projects.
 
 ## 🚀 Languages and Tools
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
+<img
+  align="left"
+  alt="NextJS"
+  width="30px"
+  class="dark-mode-icon"
+  src="[https://example.com/path/to/nextjs-icon-light.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg)"
+/>
+
+<img
+  align="left"
+  alt="NextJS"
+  width="30px"
+  class="light-mode-icon"
+  src="[https://example.com/path/to/nextjs-icon-dark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg)"
+/>
+
+<style>
+  @media (prefers-color-scheme: dark) {
+    .dark-mode-icon {
+      display: inline;
+    }
+    .light-mode-icon {
+      display: none;
+    }
+  }
+
+  @media (prefers-color-scheme: light) {
+    .dark-mode-icon {
+      display: none;
+    }
+    .light-mode-icon {
+      display: inline;
+    }
+  }
+</style>
+
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
           

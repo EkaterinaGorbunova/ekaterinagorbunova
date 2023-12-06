@@ -2,6 +2,9 @@
 I'm a Full Stack Software Developer who enjoys working on both the front and back ends as well as cloud solutions. I have experience with a variety of technologies, making me adaptable and ready to contribute to diverse projects.
 
 ## 🚀 Languages and Tools
+<div style="background-color: white; padding: 10px; display: inline-block;">
+    <img alt="NextJS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+</div>
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px; background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -14,7 +17,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 - **Blockchain:** Web3, Ethereum, NFT, OpenSea, Infura, Polygon, IPFS, Pinata, Hardhat, Truffle, Solidity, Smart Contracts
 - **Backend Game Development:** Unreal Engine, Pixel Streaming, Dedicated Game Servers, Inno Setup scripting (for distributing games)
 -->
-##
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed)-->
 

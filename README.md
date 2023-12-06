@@ -10,7 +10,10 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 - **Blockchain:** Web3, Ethereum, NFT, OpenSea, Infura, Polygon, IPFS, Pinata, Hardhat, Truffle, Solidity, Smart Contracts
 - **Backend Game Development:** Unreal Engine, Pixel Streaming, Dedicated Game Servers, Inno Setup scripting (for distributing games)
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="filter: invert(1);"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white' width='40' height='40'%3E%3Cpath d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M21 12l-4 4-1.41-1.41L18.17 13H8v-2h10.17l-2.58-2.59L17 8l4 4z'/%3E%3C/svg%3E" alt="nextjs" width="40" height="40"/>
+</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed)-->

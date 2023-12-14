@@ -15,6 +15,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 🌱 I’m currently learning TypeScript and React Native
 
 ## Examples of Work
+
 <img src='https://github.com/EkaterinaGorbunova/ekaterinagorbunova/blob/main/camplifestyle-preview.gif' width="256" />
 
 ##

@@ -37,7 +37,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
     <td valign="top">
       <p>Lawyers Office Website</p>
       <p>HTML, CSS, Netlify</p>
-      <a href="https://winery-noble-nectars.netlify.app" target="_blank">
+      <a href="https://lawyers-office.netlify.app" target="_blank">
           <img src="img/lawyers-office.webp" width="256" alt="Winery Website"/>    
       </a>
     </td>

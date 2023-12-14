@@ -16,7 +16,22 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 
 ## Examples of Work
 
-<img src='https://github.com/EkaterinaGorbunova/ekaterinagorbunova/blob/main/camplifestyle-preview.gif' width="256" />
+<div style="display: flex;">
+    <div style="display: flex; flex-direction: column; padding-right: 10px">
+        <h3>Camplifestyle Website</h3>
+        <p> React, GSAP, Netlify</p>
+        <a href="https://camplifestyle-spa.netlify.app">
+            <img src='https://github.com/EkaterinaGorbunova/ekaterinagorbunova/blob/main/img/camplifestyle.webp' width="256" />    
+        </a>
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <h3>Winery Website</h3>
+        <p> React, Gulp, Netlify</p>
+        <a href="https://winery-noble-nectars.netlify.app">
+            <img src='https://github.com/EkaterinaGorbunova/ekaterinagorbunova/blob/main/img/winery.webp' width="256" />    
+        </a>
+    </div>
+</div>
 
 ##
 [<img src='https://img.shields.io/badge/LinkedIn-Blue?style=social&logo=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/ekaterina-gorbunova-b57582133/)

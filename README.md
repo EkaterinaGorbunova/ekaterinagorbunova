@@ -43,7 +43,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
     </td>
   </tr>
   <tr>
-    <td valign="top">>
+    <td valign="top">
       <p>3D Model</p>
       <p>ThreeJS, Netlify</p>
             <a href="https://threejs-point-light.netlify.app" target="_blank">

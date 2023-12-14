@@ -14,24 +14,26 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 
 🌱 I’m currently learning TypeScript and React Native
 
-## Examples of Work
+## 🔭 Examples of Work
 
-<div style="display: flex">
-    <div style="display: flex; flex-direction: column; padding-right: 10px">
-        <h2>Camplifestyle Website</h2>
-        <p> React, GSAP, Netlify</p>
-        <a href="https://camplifestyle-spa.netlify.app" target="_blank">
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <td valign="top">
+        <p>Camplifestyle Website</p>
+        <p>React, GSAP, Netlify</p>
+         <a href="https://camplifestyle-spa.netlify.app" target="_blank">
             <img src='img/camplifestyle.webp' width="256" />    
         </a>
-    </div>
-    <div style="display: flex; flex-direction: column">
-        <h2>Winery Website</h2>
-        <p> React, Gulp, Netlify</p>
+    </td>
+    <td valign="top" style="font-weight: bold;">
+        <p>Winery Websitey</p>
+        <p>React, Gulp, Netlify</p>
         <a href="https://winery-noble-nectars.netlify.app" target="_blank">
             <img src='img/winery.webp' width="256" />    
         </a>
-    </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 ##
 [<img src='https://img.shields.io/badge/LinkedIn-Blue?style=social&logo=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/ekaterina-gorbunova-b57582133/)

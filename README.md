@@ -27,7 +27,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
     </td>
     <td valign="top" style="font-weight: bold;">
         <p>Winery Websitey</p>
-        <p>React, Gulp, Netlify</p>
+        <p>JS, Gulp, Netlify</p>
         <a href="https://winery-noble-nectars.netlify.app" target="_blank">
             <img src='img/winery.webp' width="256" />    
         </a>

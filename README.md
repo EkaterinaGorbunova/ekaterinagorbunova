@@ -20,14 +20,14 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
   <tr style="padding: 0">
     <td valign="top">
         <p>Camplifestyle Website</p>
-        <p>React, GSAP, Netlify</p>
+        <p>React, GSAP, Tailwind, Netlify</p>
          <a href="https://camplifestyle-spa.netlify.app" target="_blank">
             <img src='img/camplifestyle.webp' width="256" />    
         </a>
     </td>
     <td valign="top" style="font-weight: bold;">
         <p>Winery Websitey</p>
-        <p>JS, Gulp, Netlify</p>
+        <p>HTML/JS, Sass, Gulp, Netlify</p>
         <a href="https://winery-noble-nectars.netlify.app" target="_blank">
             <img src='img/winery.webp' width="256" />    
         </a>

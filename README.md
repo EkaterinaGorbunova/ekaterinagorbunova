@@ -42,6 +42,15 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
       </a>
     </td>
   </tr>
+  <tr>
+    <td valign="top">>
+      <p>3D Model</p>
+      <p>ThreeJS, Netlify</p>
+            <a href="https://threejs-point-light.netlify.app" target="_blank">
+          <img src="img/threejs-point-light.gif" width="256" alt="3D Model"/>    
+      </a>
+    </td>
+  </tr>
 </table>
 
 ##

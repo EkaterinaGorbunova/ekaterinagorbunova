@@ -16,19 +16,19 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 
 ## Examples of Work
 
-<div style="display: flex;">
+<div style="display: flex">
     <div style="display: flex; flex-direction: column; padding-right: 10px">
-        <h3>Camplifestyle Website</h3>
+        <h2>Camplifestyle Website</h2>
         <p> React, GSAP, Netlify</p>
-        <a href="https://camplifestyle-spa.netlify.app">
-            <img src='https://github.com/EkaterinaGorbunova/ekaterinagorbunova/blob/main/img/camplifestyle.webp' width="256" />    
+        <a href="https://camplifestyle-spa.netlify.app" target="_blank">
+            <img src='img/camplifestyle.webp' width="256" />    
         </a>
     </div>
-    <div style="display: flex; flex-direction: column;">
-        <h3>Winery Website</h3>
+    <div style="display: flex; flex-direction: column">
+        <h2>Winery Website</h2>
         <p> React, Gulp, Netlify</p>
-        <a href="https://winery-noble-nectars.netlify.app">
-            <img src='https://github.com/EkaterinaGorbunova/ekaterinagorbunova/blob/main/img/winery.webp' width="256" />    
+        <a href="https://winery-noble-nectars.netlify.app" target="_blank">
+            <img src='img/winery.webp' width="256" />    
         </a>
     </div>
 </div>

@@ -13,7 +13,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
 
-🌱 I’m currently learning TypeScript and React Native
+🌱 I’m currently exploring TypeScript and React Native to strengthen capabilities in full-stack development.
 
 #
 ### 🔭 Examples of Work

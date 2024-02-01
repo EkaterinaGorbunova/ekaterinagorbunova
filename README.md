@@ -44,6 +44,20 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
   </tr>
   <tr>
     <td valign="top">
+      <p>Peach Bakery</p>
+      <p>HTML, CSS, Netlify</p>
+            <a href="https://peach-bakery-store.netlify.app" target="_blank">
+          <img src="img/peach-bakery.webp" width="256" alt="Peach Bakeryl"/>    
+      </a>
+    </td>
+    <td valign="top">
+      <p>Quiz</p>
+      <p>HTML, CSS, JS, Glitch</p>
+            <a href="https://quiz-devapp.glitch.me" target="_blank">
+          <img src="img/quiz.webp" width="256" alt="Quiz"/>    
+      </a>
+    </td>
+    <td valign="top">
       <p>3D Model</p>
       <p>ThreeJS, Netlify</p>
             <a href="https://threejs-point-light.netlify.app" target="_blank">

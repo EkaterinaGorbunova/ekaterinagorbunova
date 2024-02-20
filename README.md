@@ -21,21 +21,21 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top">
-      <p>Camplifestyle App</p>
+      <p>Camplifestyle Landing App</p>
       <p>React, GSAP, Tailwind, Netlify</p>
        <a href="https://camplifestyle-spa.netlify.app" target="_blank">
           <img src="img/camplifestyle.webp" width="256" alt="Camplifestyle Website"/>    
       </a>
     </td>
     <td valign="top">
-      <p>Winery App</p>
+      <p>Winery Landing App</p>
       <p>JS, Sass, Gulp, Netlify</p>
       <a href="https://winery-noble-nectars.netlify.app" target="_blank">
           <img src="img/winery.webp" width="256" alt="Winery Website"/>    
       </a>
     </td>
     <td valign="top">
-      <p>Lawyers Office App</p>
+      <p>Lawyers Office Landing App</p>
       <p>HTML, CSS, Netlify</p>
       <a href="https://lawyers-office.netlify.app" target="_blank">
           <img src="img/lawyers-office.webp" width="256" alt="Winery Website"/>    
@@ -44,7 +44,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
   </tr>
   <tr>
     <td valign="top">
-      <p>Peach Bakery App</p>
+      <p>Peach Bakery Landing App</p>
       <p>HTML, CSS, Netlify</p>
             <a href="https://peach-bakery-store.netlify.app" target="_blank">
           <img src="img/peach-bakery.webp" width="256" alt="Peach Bakeryl"/>    

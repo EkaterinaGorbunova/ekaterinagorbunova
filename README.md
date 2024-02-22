@@ -49,7 +49,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
       </a>
     </td>
   </tr>
-  <tr>
+  <tr>    
 <!--     <td valign="top">
       <p>Peach Bakery Landing App</p>
       <p>HTML, CSS, Netlify</p>

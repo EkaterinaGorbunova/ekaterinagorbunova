@@ -21,6 +21,13 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top">
+      <p>Burger House Landing App</p>
+      <p>Angular, TypeScript</p>
+       <a href="https://ekaterinagorbunova.github.io/burger-house/" target="_blank">
+          <img src="img/burger-house.png" width="256" alt=">Burger House App"/>    
+      </a>
+    </td>
+    <td valign="top">
       <p>Camplifestyle Landing App</p>
       <p>React, GSAP, Tailwind, Netlify</p>
        <a href="https://camplifestyle-spa.netlify.app" target="_blank">
@@ -31,36 +38,36 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
       <p>Winery Landing App</p>
       <p>JS, Sass, Gulp, Netlify</p>
       <a href="https://winery-noble-nectars.netlify.app" target="_blank">
-          <img src="img/winery.webp" width="256" alt="Winery Website"/>    
+          <img src="img/winery.webp" width="256" alt="Winery App"/>    
       </a>
     </td>
     <td valign="top">
       <p>Lawyers Office Landing App</p>
       <p>HTML, CSS, Netlify</p>
       <a href="https://lawyers-office.netlify.app" target="_blank">
-          <img src="img/lawyers-office.webp" width="256" alt="Winery Website"/>    
+          <img src="img/lawyers-office.webp" width="256" alt="Lawyers Office App"/>    
       </a>
     </td>
   </tr>
   <tr>
-    <td valign="top">
+<!--     <td valign="top">
       <p>Peach Bakery Landing App</p>
       <p>HTML, CSS, Netlify</p>
             <a href="https://peach-bakery-store.netlify.app" target="_blank">
           <img src="img/peach-bakery.webp" width="256" alt="Peach Bakeryl"/>    
       </a>
-    </td>
-    <td valign="top">
+    </td> -->
+<!--     <td valign="top">
       <p>Quiz App</p>
       <p>HTML, CSS, JS, Glitch</p>
             <a href="https://quiz-devapp.glitch.me" target="_blank">
           <img src="img/quiz.webp" width="256" alt="Quiz"/>    
       </a>
-    </td>
+    </td> -->
     <td valign="top">
       <p>3D Model</p>
       <p>ThreeJS, Netlify</p>
-            <a href="https://threejs-point-light.netlify.app" target="_blank">
+          <a href="https://threejs-point-light.netlify.app" target="_blank">
           <img src="img/threejs-point-light.gif" width="256" alt="3D Model"/>    
       </a>
     </td>

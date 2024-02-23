@@ -43,13 +43,13 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
     </td>
   </tr>
   <tr style="padding: 0">    
-<!--     <td valign="top">
+    <td valign="top">
       <p>Peach Bakery App</p>
-      <p>HTML, CSS, Netlify</p>
-            <a href="https://peach-bakery-store.netlify.app" target="_blank">
+      <p>HTML, GSAP, CSS, Netlify</p>
+      <a href="https://peach-bakery-store.netlify.app" target="_blank">
           <img src="img/peach-bakery.webp" width="256" alt="Peach Bakeryl"/>    
       </a>
-    </td> -->
+    </td>
 <!--     <td valign="top">
       <p>Quiz App</p>
       <p>HTML, CSS, JS, Glitch</p>

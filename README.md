@@ -23,14 +23,14 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
     <td valign="top">
       <p>Burger House App</p>
       <p>Angular/TypeScript, CSS, Netlify</p>
-       <a href="https://burger-house-express.netlify.app" target="_blank">
+      <a href="https://burger-house-express.netlify.app" target="_blank">
           <img src="img/burger-house.webp" width="256" alt="Burger"/>    
       </a>
     </td>
     <td valign="top">
       <p>Camplifestyle App</p>
-      <p>React, GSAP, Tailwind, Netlify</p>
-       <a href="https://camplifestyle-spa.netlify.app" target="_blank">
+      <p>React, GSAP, Tailwind CSS, Netlify</p>
+      <a href="https://camplifestyle-spa.netlify.app" target="_blank">
           <img src="img/camplifestyle.webp" width="256" alt="Camplifestyle"/>    
       </a>
     </td>
@@ -67,7 +67,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
     <td valign="top">
       <p>3D Model</p>
       <p>ThreeJS, Netlify</p>
-          <a href="https://threejs-point-light.netlify.app" target="_blank">
+      <a href="https://threejs-point-light.netlify.app" target="_blank">
           <img src="img/threejs-point-light.gif" width="256" alt="3D Model"/>    
       </a>
     </td>

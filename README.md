@@ -31,7 +31,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
       <p>Camplifestyle Landing App</p>
       <p>React, GSAP, Tailwind, Netlify</p>
        <a href="https://camplifestyle-spa.netlify.app" target="_blank">
-          <img src="img/camplifestyle.webp" width="256" alt="Camplifestyle Website"/>    
+          <img src="img/camplifestyle.webp" width="256" alt="Camplifestyle App"/>    
       </a>
     </td>
     <td valign="top">

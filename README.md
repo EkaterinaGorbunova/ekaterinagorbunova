@@ -23,7 +23,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
     <td valign="top">
       <p>Burger House Landing App</p>
       <p>Angular, TypeScript, CSS</p>
-       <a href="https://ekaterinagorbunova.github.io/burger-house/" target="_blank">
+       <a href="https://burger-house-express.netlify.app" target="_blank">
           <img src="img/burger-house.webp" width="256" alt="Burger House App"/>    
       </a>
     </td>

@@ -5,11 +5,11 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 ### 🚀 Languages and Tools
 
 - **Frontend Development:** NextJS, React, JavaScript, Tailwind CSS
-- **Backend Development:** NodeJS, Socket.IO (WebSocket), REST APIs, Docker
+- **Backend Development and Automation:** NodeJS, Socket.IO, REST APIs, Docker, Nunjucks, GitHub Actions, Cron
 - **Hosting and Deployment:** Vercel, Amplify, Netlify, Heroku
 - **Cloud Services:** AWS (EC2, LB, SSM, ECR, IAM, Route53, S3, Cognito (Auth/OAuth), DynamoDB, Lambda)
-- **Blockchain:** Web3, Ethereum, NFT, OpenSea, Infura, Polygon, IPFS, Pinata, Hardhat, Truffle, Solidity, Smart Contracts
-- **Backend Game Development:** Unreal Engine, Pixel Streaming, Dedicated Game Servers, Inno Setup scripting (for distributing games)
+- **Blockchain:** Web3, ether.js, Ethereum, NFT, OpenSea, Infura, Polygon, IPFS, Pinata, Hardhat, Truffle, Solidity, Smart Contracts, Remix, Etherscan
+- **Backend Game Development:** Unreal Engine, Blueprint Visual Scripting, Pixel Streaming, Dedicated Game Servers, Inno Setup scripting (for distributing games)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
 

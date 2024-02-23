@@ -22,7 +22,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
   <tr style="padding: 0">
     <td valign="top">
       <p>Burger House App</p>
-      <p>Angular, TypeScript, CSS</p>
+      <p>Angular/TypeScript, CSS, Netlify</p>
        <a href="https://burger-house-express.netlify.app" target="_blank">
           <img src="img/burger-house.webp" width="256" alt="Burger"/>    
       </a>

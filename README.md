@@ -21,37 +21,30 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top">
-      <p>Burger House Landing App</p>
+      <p>Burger House App</p>
       <p>Angular, TypeScript, CSS</p>
        <a href="https://burger-house-express.netlify.app" target="_blank">
-          <img src="img/burger-house.webp" width="256" alt="Burger House App"/>    
+          <img src="img/burger-house.webp" width="256" alt="Burger"/>    
       </a>
     </td>
     <td valign="top">
-      <p>Camplifestyle Landing App</p>
+      <p>Camplifestyle App</p>
       <p>React, GSAP, Tailwind, Netlify</p>
        <a href="https://camplifestyle-spa.netlify.app" target="_blank">
-          <img src="img/camplifestyle.webp" width="256" alt="Camplifestyle App"/>    
+          <img src="img/camplifestyle.webp" width="256" alt="Camplifestyle"/>    
       </a>
     </td>
     <td valign="top">
-      <p>Winery Landing App</p>
+      <p>Winery App</p>
       <p>JS, Sass, Gulp, Netlify</p>
       <a href="https://winery-noble-nectars.netlify.app" target="_blank">
           <img src="img/winery.webp" width="256" alt="Winery App"/>    
       </a>
     </td>
-    <td valign="top">
-      <p>Lawyers Office Landing App</p>
-      <p>HTML, CSS, Netlify</p>
-      <a href="https://lawyers-office.netlify.app" target="_blank">
-          <img src="img/lawyers-office.webp" width="256" alt="Lawyers Office App"/>    
-      </a>
-    </td>
   </tr>
-  <tr>    
+  <tr style="padding: 0">    
 <!--     <td valign="top">
-      <p>Peach Bakery Landing App</p>
+      <p>Peach Bakery App</p>
       <p>HTML, CSS, Netlify</p>
             <a href="https://peach-bakery-store.netlify.app" target="_blank">
           <img src="img/peach-bakery.webp" width="256" alt="Peach Bakeryl"/>    
@@ -64,6 +57,13 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
           <img src="img/quiz.webp" width="256" alt="Quiz"/>    
       </a>
     </td> -->
+    <td valign="top">
+      <p>Lawyers Office App</p>
+      <p>HTML, CSS, Netlify</p>
+      <a href="https://lawyers-office.netlify.app" target="_blank">
+          <img src="img/lawyers-office.webp" width="256" alt="Lawyers Office"/>    
+      </a>
+    </td>
     <td valign="top">
       <p>3D Model</p>
       <p>ThreeJS, Netlify</p>

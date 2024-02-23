@@ -16,7 +16,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 🌱 I’m currently exploring TypeScript and React Native to strengthen capabilities in full-stack development.
 
 #
-### 🔭 Examples of Work
+### ⚒️ My Creations
 
 <table cellpadding="0">
   <tr style="padding: 0">

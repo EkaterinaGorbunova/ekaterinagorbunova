@@ -21,6 +21,13 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top">
+      <p>Ticketing System App</p>
+      <p>NextJS, Tailwind CSS, MongoDB, Vercel</p>
+      <a href="https://ticket-app-lemon.vercel.app/" target="_blank">
+          <img src="img/ticket.webp" width="256" alt="Ticket"/>    
+      </a>
+    </td>
+    <td valign="top">
       <p>Burger House App</p>
       <p>Angular, TypeScript, CSS, Netlify</p>
       <a href="https://burger-house-express.netlify.app" target="_blank">
@@ -34,6 +41,8 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
           <img src="img/camplifestyle.webp" width="256" alt="Camplifestyle"/>    
       </a>
     </td>
+  </tr>
+  <tr style="padding: 0">
     <td valign="top">
       <p>Winery Nectars App</p>
       <p>JavaScript, Sass, Gulp, Netlify</p>
@@ -41,8 +50,6 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
           <img src="img/winery.webp" width="256" alt="Winery Nectars App"/>    
       </a>
     </td>
-  </tr>
-  <tr style="padding: 0">    
     <td valign="top">
       <p>Peach Bakery App</p>
       <p>HTML, GSAP, CSS, Netlify</p>
@@ -50,13 +57,6 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
           <img src="img/peach-bakery.webp" width="256" alt="Peach Bakeryl"/>    
       </a>
     </td>
-<!--     <td valign="top">
-      <p>Quiz App</p>
-      <p>HTML, CSS, JS, Glitch</p>
-            <a href="https://quiz-devapp.glitch.me" target="_blank">
-          <img src="img/quiz.webp" width="256" alt="Quiz"/>    
-      </a>
-    </td> -->
     <td valign="top">
       <p>Lawyers Office App</p>
       <p>HTML, CSS, Netlify</p>
@@ -64,6 +64,15 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
           <img src="img/lawyers-office.webp" width="256" alt="Lawyers Office"/>    
       </a>
     </td>
+  </tr>
+  <tr style="padding: 0">    
+<!--     <td valign="top">
+      <p>Quiz App</p>
+      <p>HTML, CSS, JS, Glitch</p>
+            <a href="https://quiz-devapp.glitch.me" target="_blank">
+          <img src="img/quiz.webp" width="256" alt="Quiz"/>    
+      </a>
+    </td> -->
     <td valign="top">
       <p>3D Animated Model</p>
       <p>ThreeJS, Netlify</p>

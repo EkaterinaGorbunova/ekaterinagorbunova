@@ -21,7 +21,7 @@ I'm a Full Stack Software Developer who enjoys working on both the front and bac
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top">
-      <p>Ticketing System App</p>
+      <p>Ticketing App</p>
       <p>NextJS, Tailwind CSS, MongoDB, Vercel</p>
       <a href="https://ticket-app-lemon.vercel.app/" target="_blank">
           <img src="img/ticket.webp" width="256" alt="Ticket"/>    

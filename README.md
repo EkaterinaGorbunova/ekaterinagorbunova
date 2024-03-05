@@ -4,8 +4,8 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
 #
 ### 🚀 Languages and Tools
 
-- **Frontend Development:** NextJS, React, JavaScript, Tailwind CSS
-- **Backend Development and Automation:** NodeJS, Socket.IO, REST APIs, Docker, Nunjucks, GitHub Actions, Cron
+- **Frontend:** NextJS, React, JavaScript, Tailwind CSS
+- **Backend and Automation:** NodeJS, Socket.IO, REST APIs, Docker, Nunjucks, GitHub Actions, Cron
 - **Hosting and Deployment:** Vercel, Amplify, Netlify, Heroku
 - **Cloud Services:** AWS (EC2, LB, SSM, ECR, IAM, Route53, S3, Cognito (Auth/OAuth), DynamoDB, Lambda)
 - **Blockchain:** Web3, ether.js, Ethereum, NFT, OpenSea, Infura, Polygon, IPFS, Pinata, Hardhat, Truffle, Solidity, Smart Contracts, Remix, Etherscan

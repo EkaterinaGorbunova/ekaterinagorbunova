@@ -21,13 +21,6 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top">
-      <p>Ticketing App</p>
-      <p>NextJS, Tailwind CSS, MongoDB, Vercel</p>
-      <a href="https://ticket-app-lemon.vercel.app/" target="_blank">
-          <img src="img/ticket.webp" width="256" alt="Ticket"/>    
-      </a>
-    </td>
-    <td valign="top">
       <p>Burger House App</p>
       <p>Angular, TypeScript, CSS, Netlify</p>
       <a href="https://burger-house-express.netlify.app" target="_blank">
@@ -41,8 +34,6 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
           <img src="img/camplifestyle.webp" width="256" alt="Camplifestyle"/>    
       </a>
     </td>
-  </tr>
-  <tr style="padding: 0">
     <td valign="top">
       <p>Winery Nectars App</p>
       <p>JavaScript, Sass, Gulp, Netlify</p>
@@ -50,11 +41,20 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
           <img src="img/winery.webp" width="256" alt="Winery Nectars App"/>    
       </a>
     </td>
+  </tr>
+  <tr style="padding: 0">
     <td valign="top">
-      <p>Peach Bakery App</p>
-      <p>HTML, GSAP, CSS, Netlify</p>
-      <a href="https://peach-bakery-store.netlify.app" target="_blank">
-          <img src="img/peach-bakery.webp" width="256" alt="Peach Bakeryl"/>    
+      <p>Real-time Chat with Metamask</p>
+      <p>NextJS, Ethers.js, Vercel</p>
+      <a href="https://real-time-chat-metamask.vercel.app" target="_blank">
+          <img src="img/real-time-chat.webp" width="256" alt="Chat"/>    
+      </a>
+    </td>
+    <td valign="top">
+      <p>Ticketing App</p>
+      <p>NextJS, Tailwind CSS, MongoDB, Vercel</p>
+      <a href="https://ticket-app-lemon.vercel.app/" target="_blank">
+          <img src="img/ticket.webp" width="256" alt="Ticket"/>    
       </a>
     </td>
     <td valign="top">
@@ -74,10 +74,10 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
       </a>
     </td> -->
     <td valign="top">
-      <p>Real-time Chat with Metamask</p>
-      <p>NextJS, Ethers.js, Vercel</p>
-      <a href="https://real-time-chat-metamask.vercel.app" target="_blank">
-          <img src="img/real-time-chat.webp" width="256" alt="Chat"/>    
+      <p>Peach Bakery App</p>
+      <p>HTML, GSAP, CSS, Netlify</p>
+      <a href="https://peach-bakery-store.netlify.app" target="_blank">
+          <img src="img/peach-bakery.webp" width="256" alt="Peach Bakeryl"/>    
       </a>
     </td>
     <td valign="top">

@@ -74,6 +74,13 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
       </a>
     </td> -->
     <td valign="top">
+      <p>Real-time Chat with Metamask</p>
+      <p>NextJS, Ethers.js, Vercel</p>
+      <a href="https://real-time-chat-metamask.vercel.app" target="_blank">
+          <img src="img/chat.png" width="256" alt="Chat"/>    
+      </a>
+    </td>
+    <td valign="top">
       <p>3D Animated Model</p>
       <p>ThreeJS, Netlify</p>
       <a href="https://threejs-point-light.netlify.app" target="_blank">

@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Kate
-I'm a Full Stack Developer who enjoys working on both the front and back ends as well as cloud solutions. Specialize in building dynamic cloud-based applications with a focus on React/NextJS, API integrations and client-server communication.
+I'm a Full Stack Developer who enjoys working on both the front and back ends as well as cloud solutions. Specialize in building dynamic cloud-based applications with a focus on NextJS/React, API integrations and client-server communication.
 
 #
 ### 🚀 Languages and Tools

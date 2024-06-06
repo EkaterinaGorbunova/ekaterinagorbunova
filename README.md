@@ -22,7 +22,7 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
   <tr style="padding: 0">
     <td valign="top">
       <p>Web Scraping App</p>
-      <p>NextJS 14, MongoDB, Bright Data, Cron</p>
+      <p>NextJS 14, MongoDB, Bright Data</p>
       <a href="https://pricewatcher-bcliquor.vercel.app" target="_blank">
           <img src="img/scrape.png" width="256" alt="Web Scraping App"/>    
       </a>

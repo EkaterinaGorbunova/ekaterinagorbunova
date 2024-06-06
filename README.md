@@ -21,6 +21,13 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top">
+      <p>Web Scraping App</p>
+      <p>NextJS, TypeScript, MongoDB, Bright data</p>
+      <a href="https://pricewatcher-bcliquor.vercel.app" target="_blank">
+          <img src="img/scrape.png" width="256" alt="Web Scraping App"/>    
+      </a>
+    </td>
+    <td valign="top">
       <p>Burger House App</p>
       <p>Angular, TypeScript, CSS, Netlify</p>
       <a href="https://burger-house-express.netlify.app" target="_blank">
@@ -32,13 +39,6 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
       <p>React, GSAP, Tailwind CSS, Netlify</p>
       <a href="https://camplifestyle-spa.netlify.app" target="_blank">
           <img src="img/camplifestyle.webp" width="256" alt="Camplifestyle"/>    
-      </a>
-    </td>
-    <td valign="top">
-      <p>Winery Nectars App</p>
-      <p>JavaScript, Sass, Gulp, Netlify</p>
-      <a href="https://winery-noble-nectars.netlify.app" target="_blank">
-          <img src="img/winery.webp" width="256" alt="Winery Nectars App"/>    
       </a>
     </td>
   </tr>
@@ -57,11 +57,11 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
           <img src="img/ticket.webp" width="256" alt="Ticket"/>    
       </a>
     </td>
-    <td valign="top">
-      <p>Lawyers Office App</p>
-      <p>HTML, CSS, Netlify</p>
-      <a href="https://lawyers-office.netlify.app" target="_blank">
-          <img src="img/lawyers-office.webp" width="256" alt="Lawyers Office"/>    
+        <td valign="top">
+      <p>Winery Nectars App</p>
+      <p>JavaScript, Sass, Gulp, Netlify</p>
+      <a href="https://winery-noble-nectars.netlify.app" target="_blank">
+          <img src="img/winery.webp" width="256" alt="Winery Nectars App"/>    
       </a>
     </td>
   </tr>
@@ -73,6 +73,13 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
           <img src="img/quiz.webp" width="256" alt="Quiz"/>    
       </a>
     </td> -->
+    <td valign="top">
+      <p>Lawyers Office App</p>
+      <p>HTML, CSS, Netlify</p>
+      <a href="https://lawyers-office.netlify.app" target="_blank">
+          <img src="img/lawyers-office.webp" width="256" alt="Lawyers Office"/>    
+      </a>
+    </td>
     <td valign="top">
       <p>Peach Bakery App</p>
       <p>HTML, GSAP, CSS, Netlify</p>

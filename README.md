@@ -44,7 +44,7 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
   </tr>
   <tr style="padding: 0">
     <td valign="top">
-      <p>Real-time Chat with Metamask</p>
+      <p>Chat with Metamask Wallet</p>
       <p>NextJS, Ethers.js, Vercel</p>
       <a href="https://real-time-chat-metamask.vercel.app" target="_blank">
           <img src="img/real-time-chat.webp" width="256" alt="Chat"/>    

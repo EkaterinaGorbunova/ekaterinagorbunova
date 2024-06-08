@@ -51,8 +51,8 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
       </a>
     </td>
     <td valign="top">
-      <p>Ticketing App</p>
-      <p>NextJS, Tailwind CSS, MongoDB, Vercel</p>
+      <p>Ticketing System App</p>
+      <p>NextJS, Tailwind CSS, MongoDB</p>
       <a href="https://ticket-app-lemon.vercel.app/" target="_blank">
           <img src="img/ticket.webp" width="256" alt="Ticket"/>    
       </a>

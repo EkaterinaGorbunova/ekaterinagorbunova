@@ -1,15 +1,18 @@
-### Hi there 👋, I'm Kate
+### Hi there 👋, I'm Kate.
 I'm a Full Stack Developer who enjoys working on both the front and back ends as well as cloud solutions. Specialize in building dynamic cloud-based applications with a focus on NextJS/React, API integration and Client-Server communication.
+
+Experienced in fast-paced startup environments within the Gaming and Web3 industries. 
 
 #
 ### 🚀 Languages and Tools
 
-- **Frontend:** NextJS, React, JavaScript, Tailwind CSS
-- **Backend and Automation:** NodeJS, Socket.IO, REST APIs, Docker, Nunjucks, GitHub Actions, Cron
-- **Hosting and Deployment:** Vercel, Amplify, Netlify, Heroku
+- **Frontend:** NextJS, ReactJS, JavaScript, Tailwind CSS, 3D animation with GSAP, Framer Motion, React-three-fiber, ThreeJS
+- **Backend & Automation:** NodeJS, Socket.IO, REST APIs, Docker, Linux/WSL, Nunjucks, Tauri, GitHub Actions, Cron
+- **Hosting & Deployment:** AWS Amplify, Vercel, Netlify, GitHub Pages, Heroku
 - **Cloud Services:** AWS (EC2, LB, SSM, ECR, IAM, Route53, S3, Cognito (Auth/OAuth), DynamoDB, Lambda)
-- **Blockchain:** Web3, ether.js, Ethereum, NFT, OpenSea, Infura, Polygon, IPFS, Pinata, Hardhat, Truffle, Solidity, Smart Contracts, Remix, Etherscan
-- **Backend Game Development:** Unreal Engine, Blueprint Visual Scripting, Pixel Streaming, Dedicated Game Servers, Inno Setup scripting (for distributing games)
+- **Blockchain Development:** EthersJS, Ethereum, NFT, OpenSea API, Infura, Polygon/Amoy, IPFS, Pinata, Hardhat, Truffle, Solidity Smart Contracts, Remix, Etherscan
+- **Game Development:** Unreal Engine 5, UE Blueprint Visual Scripting, UE Pixel Streaming, Dedicated Game Servers, Inno Setup scripting (for distributing games)
+- **Technologies**: Git/Git LFS/GitHub, Figma, Ably, Tailscale, Jira, Confluence
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
 

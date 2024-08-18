@@ -3,10 +3,10 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
 
 Experienced in fast-paced startup environments within the Gaming and Web3 industries.
 
-🤖 Always open to new challenges!
+🤖 Always open to new challenges! I see them not as problems, but as opportunities to develop innovative solutions and grow from the experience.
 
 #
-### 🚀 Languages and Tools
+### 🚀 Teck Stack
 
 - **Frontend:** NextJS, ReactJS, JavaScript, Tailwind CSS, 3D animation with GSAP, Framer Motion, React-three-fiber, ThreeJS
 - **Backend & Automation:** NodeJS, Socket.IO, REST APIs, Docker, Linux/WSL, Nunjucks, Tauri, GitHub Actions, Cron
@@ -18,7 +18,7 @@ Experienced in fast-paced startup environments within the Gaming and Web3 indust
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
 
-🌱 I’m currently exploring TypeScript and React Native to strengthen capabilities in full-stack development.
+🌱 Exploring TypeScript and React Native to strengthen capabilities in full-stack development.
 
 #
 ### ⚒️ My Creations

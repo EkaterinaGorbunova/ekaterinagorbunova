@@ -23,6 +23,10 @@ Passionate Full-Stack Developer who enjoys working on both the front and back en
 
 🌱 Exploring TypeScript and React Native to strengthen capabilities in full-stack development.
 
+<br>
+
+[<img src='https://img.shields.io/badge/LinkedIn-Blue?style=social&logo=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/egorbunova/)
+
 #
 ### ⚒️ My Creations
 
@@ -105,8 +109,7 @@ Passionate Full-Stack Developer who enjoys working on both the front and back en
   </tr>
 </table>
 
-##
-[<img src='https://img.shields.io/badge/LinkedIn-Blue?style=social&logo=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/egorbunova/)
+
 
 <!--
 **EkaterinaGorbunova/ekaterinagorbunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

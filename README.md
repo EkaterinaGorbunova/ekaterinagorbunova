@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/egorbunova/" target="_blank"><img src="img/Banner.png" alt="Ekaterina Gorbunova baner"></a>
+<a href="https://www.linkedin.com/in/egorbunova/" target="_blank"><img src="img/banner_egorbunova.png" alt="Ekaterina Gorbunova baner"></a>
 
 ### Hi there 👋, I'm Ekaterina.
 I'm a Full Stack Developer who enjoys working on both the front and back ends as well as cloud solutions. Specialize in building dynamic applications with a focus on NextJS/ReactJS, server-side rendering, efficient client-server data exchange and cloud-based architecture.

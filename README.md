@@ -9,7 +9,7 @@ Passionate Full-Stack Developer who enjoys working on both the front and back en
 🧩 Always open to new challenges! I see them as opportunities for growth and innovation.
 
 #
-### 🚀 Teck Stack
+### 🚀 Tech Stack
 
 - **Frontend:** NextJS, ReactJS, JavaScript, Tailwind CSS, 3D animation with GSAP, Framer Motion, React-three-fiber, ThreeJS
 - **Backend & Automation:** NodeJS, Socket.IO, REST APIs, Docker, Linux/WSL, Nunjucks, Tauri, GitHub Actions, Cron

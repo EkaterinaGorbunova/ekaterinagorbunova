@@ -1,11 +1,12 @@
 <a href="https://www.linkedin.com/in/egorbunova/" target="_blank"><img src="img/banner_egorbunova.png" alt="Ekaterina Gorbunova baner"></a>
 
-### Hi there 👋, I'm Ekaterina.
-I'm a Full Stack Developer who enjoys working on both the front and back ends as well as cloud solutions. Specialize in building dynamic applications with a focus on NextJS/ReactJS, server-side rendering, efficient client-server data exchange and cloud-based architecture.
+### Hey there 👋 I'm Ekaterina
 
-Experienced in fast-paced startup environments within the Gaming and Web3 industries.
+Passionate Full-Stack Developer who enjoys working on both the front and back ends as well as cloud solutions. Specialize in building dynamic applications with a focus on NextJS, React, NodeJS, server-side rendering, efficient client-server data exchange and cloud-based architecture.
 
-🤖 Always open to new challenges! I see them as opportunities to develop innovative solutions and grow from the experience.
+💫 Experienced in dynamic startup environments within the Gaming and Web3 industries.
+
+🧩 Always open to new challenges! I see them as opportunities for growth and innovation.
 
 #
 ### 🚀 Teck Stack
@@ -15,8 +16,8 @@ Experienced in fast-paced startup environments within the Gaming and Web3 indust
 - **Hosting & Deployment:** AWS Amplify, Vercel, Netlify, GitHub Pages, Heroku
 - **Cloud Services:** AWS (EC2, LB, SSM, ECR, IAM, Route53, S3, Cognito (Auth/OAuth), DynamoDB, Lambda)
 - **Blockchain Development:** EthersJS, Ethereum, NFT, OpenSea API, Infura, Polygon/Amoy, IPFS, Pinata, Hardhat, Truffle, Solidity Smart Contracts, Remix, Etherscan
-- **Game Development:** Unreal Engine 5, UE Blueprint Visual Scripting, UE Pixel Streaming, Dedicated Game Servers, Inno Setup scripting (for distributing games)
-- **Technologies**: Git/Git LFS/GitHub, Figma, Ably, Tailscale, Jira, Confluence
+- **Game Development:** Unreal Engine 5, UE Blueprint Scripting, UE Pixel Streaming, Dedicated Game Servers, Inno Setup scripting (for distributing games)
+- **Technologies**: Git/Git LFS/GitHub, Figma, Ably, Stripe, Tailscale, Jira, Confluence
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
 

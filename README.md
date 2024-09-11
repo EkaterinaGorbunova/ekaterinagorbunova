@@ -5,7 +5,7 @@ I'm a Full Stack Developer who enjoys working on both the front and back ends as
 
 Experienced in fast-paced startup environments within the Gaming and Web3 industries.
 
-🤖 Always open to new challenges! I see them not as problems, but as opportunities to develop innovative solutions and grow from the experience.
+🤖 Always open to new challenges! I see them as opportunities to develop innovative solutions and grow from the experience.
 
 #
 ### 🚀 Teck Stack

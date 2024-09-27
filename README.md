@@ -2,7 +2,9 @@
 
 ### Hey there 👋 I'm Ekaterina
 
-Passionate Full-Stack Developer who enjoys working on both the front and back ends as well as cloud solutions. Specialize in building dynamic applications with a focus on NextJS, React, NodeJS, server-side rendering, efficient client-server data exchange and cloud-based architecture.
+I'm a highly motivated and results-oriented Full-Stack Developer with a passion for continuous learning.
+
+I enjoy working on both Frontend and Backend, as well as Cloud solutions. I specialize in building dynamic applications, focusing on NextJS, React, NodeJS, server-side rendering, efficient client-server data exchange and cloud-based architecture.
 
 💫 Experienced in dynamic startup environments within the Gaming and Web3 industries.
 

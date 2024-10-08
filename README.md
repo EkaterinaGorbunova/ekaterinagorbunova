@@ -87,27 +87,27 @@ I enjoy working on both Frontend and Backend, as well as Cloud solutions. I spec
           <img src="img/quiz.webp" width="256" alt="Quiz"/>    
       </a>
     </td> -->
-    <td valign="top">
+<!--     <td valign="top">
       <p>Lawyers Office App</p>
       <p>HTML, CSS, Netlify</p>
       <a href="https://lawyers-office.netlify.app" target="_blank">
           <img src="img/lawyers-office.webp" width="256" alt="Lawyers Office"/>    
       </a>
-    </td>
-    <td valign="top">
+    </td> -->
+<!--     <td valign="top">
       <p>Peach Bakery App</p>
       <p>HTML, GSAP, CSS, Netlify</p>
       <a href="https://peach-bakery-store.netlify.app" target="_blank">
           <img src="img/peach-bakery.webp" width="256" alt="Peach Bakeryl"/>    
       </a>
-    </td>
-    <td valign="top">
+    </td> -->
+<!--     <td valign="top">
       <p>3D Animated Model</p>
       <p>ThreeJS, Netlify</p>
       <a href="https://threejs-point-light.netlify.app" target="_blank">
           <img src="img/threejs-point-light.gif" width="256" alt="3D Model"/>    
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 

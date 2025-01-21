@@ -27,7 +27,8 @@ I enjoy working on both Frontend and Backend, as well as Cloud solutions. I spec
 
 <br>
 
-[<img src='https://img.shields.io/badge/LinkedIn-Blue?style=social&logo=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/egorbunova/)
+<!--  [<img src='https://img.shields.io/badge/LinkedIn-Blue?style=social&logo=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/egorbunova/) -->
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/egorbunova/)
 
 #
 ### ⚒️ My Creations

@@ -50,12 +50,19 @@ I enjoy working on both Frontend and Backend, as well as Cloud solutions. I spec
       </a>
     </td>
     <td valign="top">
+      <p>Search Movie App</p>
+      <p>React, Tailwind CSS, Vercel</p>
+      <a href="https://movie-hunt-mauve.vercel.app/" target="_blank">
+          <img src="imgsearch-movie.webp" width="256" alt="Search Movie App"/>    
+      </a>
+    </td>
+<!--     <td valign="top">
       <p>Camplifestyle App</p>
       <p>React, GSAP, Tailwind CSS, Netlify</p>
       <a href="https://camplifestyle-spa.netlify.app" target="_blank">
           <img src="img/camplifestyle.webp" width="256" alt="Camplifestyle"/>    
       </a>
-    </td>
+    </td> -->
   </tr>
   <tr style="padding: 0">
     <td valign="top">

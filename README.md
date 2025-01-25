@@ -53,7 +53,7 @@ I enjoy working on both Frontend and Backend, as well as Cloud solutions. I spec
       <p>Search Movie App</p>
       <p>React, Tailwind CSS, Vercel</p>
       <a href="https://movie-hunt-mauve.vercel.app/" target="_blank">
-          <img src="imgsearch-movie.webp" width="256" alt="Search Movie App"/>    
+          <img src="img/search-movie.webp" width="256" alt="Search Movie App"/>    
       </a>
     </td>
 <!--     <td valign="top">

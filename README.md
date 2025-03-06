@@ -23,7 +23,7 @@ I enjoy working on both Frontend and Backend, as well as Cloud solutions. I spec
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
 
-🌱 Exploring TypeScript and React Native to strengthen capabilities in full-stack development.
+🌱 Exploring React Native to strengthen capabilities in full-stack development.
 
 <br>
 

@@ -44,7 +44,7 @@ I enjoy working on both Frontend and Backend, as well as Cloud solutions. I spec
     </td>
     <td valign="top">
       <p>Burger House App</p>
-      <p>Angular, TypeScript, CSS, Netlify</p>
+      <p>Angular, TypeScript, Stripe, Netlify</p>
       <a href="https://burger-house-express.netlify.app" target="_blank">
           <img src="img/burger-house.webp" width="256" alt="Burger"/>    
       </a>

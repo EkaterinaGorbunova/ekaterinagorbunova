@@ -14,7 +14,8 @@ I enjoy working on both Frontend and Backend, as well as Cloud solutions. I spec
 ### 🚀 Tech Stack
 
 - **Frontend:** NextJS, ReactJS, JavaScript, Tailwind CSS, 3D animation with GSAP, Framer Motion, React-three-fiber, ThreeJS
-- **Backend & Automation:** NodeJS, Socket.IO, REST APIs, Docker, Linux/WSL, Nunjucks, Tauri, GitHub Actions, Cron
+- **Backend & Automation:** NodeJS, Socket.IO, GraphQL/REST APIs, Docker, Linux/WSL, Nunjucks, Tauri, GitHub Actions, Cron
+- **Automation Engineering & Quality Systems**: Jest / Playwright, E2E & API automation, query reliability engineering, schema diff & change detection tooling, CI/CD quality gates, test reporting pipelines, Slack-based alerting & notifications
 - **Hosting & Deployment:** AWS Amplify, Vercel, Netlify, GitHub Pages, Heroku
 - **Cloud Services:** AWS (EC2, LB, SSM, ECR, IAM, Route53, S3, Cognito (Auth/OAuth), DynamoDB, Lambda)
 - **Blockchain Development:** EthersJS, Ethereum, NFT, OpenSea API, Infura, Polygon/Amoy, IPFS, Pinata, Hardhat, Truffle, Solidity Smart Contracts, Remix, Etherscan
@@ -22,8 +23,6 @@ I enjoy working on both Frontend and Backend, as well as Cloud solutions. I spec
 - **Technologies**: Git/Git LFS/GitHub, Figma, Ably, Stripe, Tailscale, Jira, Confluence
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
-
-🌱 Exploring React Native to strengthen capabilities in full-stack development.
 
 <br>
 

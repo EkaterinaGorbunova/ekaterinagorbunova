@@ -65,9 +65,9 @@ I enjoy working on both Frontend and Backend, as well as Cloud solutions. I spec
   </tr>
   <tr style="padding: 0">
     <td valign="top">
-      <p>Chat with Metamask</p>
+      <p>Real-Time Chat with Crypto Wallet</p>
       <p>NextJS, Ethers.js, Vercel</p>
-      <a href="https://real-time-chat-metamask.vercel.app" target="_blank">
+      <a href="https://real-time-web3-chat.vercel.app/" target="_blank">
           <img src="img/real-time-chat.webp" width="256" alt="Chat"/>    
       </a>
     </td>

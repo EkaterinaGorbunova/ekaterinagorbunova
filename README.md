@@ -191,10 +191,13 @@ Especially interested in:
 - game tech  
 - Web3 infrastructure  
 
-- 💼 **LinkedIn:** [linkedin.com/in/egorbunova](https://linkedin.com/in/egorbunova)
-- 🌐 **GitHub:** you're already here 👋
+💼 **LinkedIn:** [linkedin.com/in/egorbunova](https://linkedin.com/in/egorbunova)
+
+🌐 **GitHub:** you're already here 👋
 
 Thanks for reading this far.
+
+#
 
 <p align="center">
   <sub>Built with care in Vancouver 🇨🇦</sub>

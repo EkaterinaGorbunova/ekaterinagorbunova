@@ -1,26 +1,50 @@
 <a href="https://www.linkedin.com/in/egorbunova/" target="_blank"><img src="img/banner_egorbunova.png" alt="Ekaterina Gorbunova baner"></a>
 
 ### Hey there 👋 I'm Ekaterina
+Full-Stack Software Engineer based in Vancouver, Canada, with 5+ years of experience building web/web3 platforms, real-time game infrastructure and test automation frameworks.
 
-I'm a highly motivated and results-oriented Full-Stack Developer with a passion for continuous learning.
+I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript** and **AWS**. I'm equally comfortable shipping production features, building QA frameworks from scratch and owning cloud infrastructure end-to-end.
 
-I enjoy working on both Frontend and Backend, as well as Cloud solutions. I specialize in building dynamic applications, focusing on NextJS, React, NodeJS, server-side rendering, efficient client-server data exchange and cloud-based architecture.
 
-💫 Experienced in dynamic startup environments within the Gaming and Web3 industries.
+#### 🚀 What I've shipped
 
-🧩 Always open to new challenges! I see them as opportunities for growth and innovation.
+**Web Development**
+- E-commerce platform with product catalog, cart, checkout, and webhook-based order processing ([live demo](eclair-marketplace.vercel.app))
+- Price tracking tool with scheduled data collection and historical analysis ([live demo](https://pricewatcher-bcliquor.vercel.app/))
+- Web platform for a multiplayer VR game: auth, in-game economy, battle history dashboard ([Forged](https://dev.forged.net/))
+- Real-time chat with wallet authentication, ENS lookup and ETH tipping ([live demo](https://real-time-web3-chat.vercel.app/))
 
-#
-### 🚀 Tech Stack
+**QA & Test Automation**
+- Built a full GraphQL Web3 API validation framework from scratch: schema diffing, breaking-change detection, data-integrity checks across 6+ EVM networks, 100% root Query field coverage
+- Wrote 80+ automated test cases (sanity, smoke, regression, E2E) in Playwright, Jest, and Postman, executing 300+ data-integrity assertions against on-chain sources (Etherscan, RPC nodes)
+- Automated the full test lifecycle via GitHub Actions: scheduled runs, Slack alerts, auto-published reports
+- Shipped an internal Next.js dashboard showing API coverage and data gaps, adopted by cross-functional teams as the release-readiness gate
 
-- **Frontend:** NextJS, ReactJS, JavaScript, Tailwind CSS, 3D animation with GSAP, Framer Motion, React-three-fiber, ThreeJS
-- **Backend & Automation:** NodeJS, Socket.IO, GraphQL/REST APIs, Docker, Linux/WSL, Nunjucks, Tauri, GitHub Actions, Cron
-- **Automation Engineering & Quality Systems**: Jest / Playwright, E2E & API automation, query reliability engineering, schema diff & change detection tooling, CI/CD quality gates, test reporting pipelines, Slack-based alerting & notifications
-- **Hosting & Deployment:** AWS Amplify, Vercel, Netlify, GitHub Pages, Heroku
-- **Cloud Services:** AWS (EC2, LB, SSM, ECR, IAM, Route53, S3, Cognito (Auth/OAuth), DynamoDB, Lambda)
-- **Blockchain Development:** EthersJS, Ethereum, NFT, OpenSea API, Infura, Polygon/Amoy, IPFS, Pinata, Hardhat, Truffle, Solidity Smart Contracts, Remix, Etherscan
-- **Game Development:** Unreal Engine 5, UE Blueprint Scripting, UE Pixel Streaming, Dedicated Game Servers, Inno Setup scripting (for distributing games)
-- **Technologies**: Git/Git LFS/GitHub, Figma, Ably, Stripe, Tailscale, Jira, Confluence
+**Game Tech**
+- Real-time matchmaking and session-sync backend handling 100+ concurrent players for a multiplayer VR game
+- In-browser cloud gaming via UE5 Pixel Streaming on Dockerized EC2, removing multi-GB client downloads
+- 3D NFT avatar system with 63 ARKit blend shapes and real-time facial animation in the browser ([live demo](https://avatar-expressions.vercel.app/))
+- Full-stack NFT dApp shipped in 2 weeks (3-person team): smart contracts, IPFS storage, 100+ daily mints
+
+#### 📈 Impact
+
+- Cut **API validation from hours to minutes** with scheduled GitHub Actions, Slack alerts, and auto-published reports
+- Dropped **Largest Contentful Paint from ~4s to under 1s** with Next.js SSR and caching, improving onboarding
+- Reduced **monthly AWS costs by ~40%** through autoscaling and idle-instance shutdown for UE5 dedicated servers
+- Cut **incident resolution from 15+ min to 2 min** via internal ops dashboard with one-click EC2 controls
+- Achieved **100% root Query field coverage** on a GraphQL API that previously had zero automated testing
+
+#### 🛠 Tech I work with
+
+**Frontend:** `TypeScript` `React` `Next.js` `Tailwind` `Framer Motion`
+
+**Backend:** `Node.js` `Express` `REST` `GraphQL` `MongoDB` `PostgreSQL` `Docker`
+
+**QA & Testing:** `Playwright` `Jest` `Postman` `Slack integrations` `Test Reporting Pipelines`
+
+**Cloud & CI/CD:** `AWS (EC2, Lambda, DynamoDB, Cognito, S3)` `GitHub Actions` `Vercel`
+
+**Game & Graphics:** `Three.js` `WebGL` `UE5` `Pixel Streaming` `Socket.IO`
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
 
@@ -30,7 +54,7 @@ I enjoy working on both Frontend and Backend, as well as Cloud solutions. I spec
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/egorbunova/)
 
 #
-### ⚒️ My Creations
+### ⚒️ Projects
 
 <table cellpadding="0">
   <tr style="padding: 0">

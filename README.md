@@ -114,7 +114,7 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
       <p><strong>Web Scraping App</strong></p>
       <p>Next.js 14, MongoDB, Bright Data</p>
       <a href="https://pricewatcher-bcliquor.vercel.app" target="_blank">
-        <img src="img/scrape.png" width="256" alt="Web Scraping App"/>
+        <img src="img/scrape.webp" width="256" alt="Web Scraping App"/>
       </a>
     </td>
     <td valign="top" width="33%">

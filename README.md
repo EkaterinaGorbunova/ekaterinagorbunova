@@ -19,7 +19,7 @@
 
 Full-Stack Software Engineer based in Vancouver, with 5+ years of experience building web/web3 platforms, real-time game infrastructure and test automation frameworks.
 
-I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript** and **AWS**. I'm equally comfortable shipping production features, building QA frameworks from scratch and owning cloud infrastructure end-to-end.
+I work across the whole stack with Next.js/React, Node.js, TypeScript and AWS. I'm equally comfortable shipping production features, building QA frameworks from scratch and owning cloud infrastructure end-to-end.
 
 #
 
@@ -47,11 +47,11 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 
 ### 📈 Impact
 
-- Cut **API validation from hours to minutes** with scheduled GitHub Actions, Slack alerts and auto-published reports
-- Dropped **Largest Contentful Paint from ~4s to under 1s** with Next.js SSR and caching, improving onboarding
-- Reduced **monthly AWS costs by ~40%** through autoscaling and idle-instance shutdown for UE5 dedicated servers
-- Cut **incident resolution from 15+ min to 2 min** via internal ops dashboard with one-click EC2 controls
-- Achieved **100% root Query field coverage** on a GraphQL API that previously had zero automated testing
+- Cut API validation from hours to minutes with scheduled GitHub Actions, Slack alerts and auto-published reports
+- Dropped Largest Contentful Paint from ~4s to under 1s with Next.js SSR and caching, improving onboarding
+- Reduced monthly AWS costs by ~40% through autoscaling and idle-instance shutdown for UE5 dedicated servers
+- Cut incident resolution from 15+ min to 2 min via internal ops dashboard with one-click EC2 controls
+- Achieved 100% root Query field coverage on a GraphQL API that previously had zero automated testing
 
 # 
 
@@ -159,7 +159,7 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 
 ### 🤝 How I work
 
-I've spent most of my career in **small teams**. I'm used to being **the first or only engineer** on a domain.
+I've spent most of my career in small teams. I'm used to being the first or only engineer on a domain.
 
 A few things I've learned the hard way:
 
@@ -180,9 +180,9 @@ A few things I've learned the hard way:
 
 ### 📬 Let's talk
 
-I’m always happy to talk about **real-time systems**, **web platforms**, **game infrastructure**, and **Web3**, or just trade notes on shipping software in small, fast-moving teams.
+I’m always happy to talk about real-time systems, web platforms, game infrastructure, and Web3, or just trade notes on shipping software in small, fast-moving teams.
 
-I’m open to **full-stack roles**, **contract work** and both **0 → 1 builds** and **re-architecture efforts**.
+I’m open to full-stack roles, contract work and both 0 → 1 builds and re-architecture efforts.
 
 Especially interested in:
 - modern web architecture  

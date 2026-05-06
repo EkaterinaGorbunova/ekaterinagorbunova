@@ -170,7 +170,7 @@ I work across the whole stack with Next.js/React, Node.js, TypeScript and AWS. I
       </a>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td valign="top" width="33%">
       <p><strong>Ticketing System App</strong></p>
       <p>Next.js, Tailwind CSS, MongoDB</p>
@@ -192,7 +192,7 @@ I work across the whole stack with Next.js/React, Node.js, TypeScript and AWS. I
         <img src="img/winery.webp" width="256" alt="Winery Nectars App"/>
       </a>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ### 🤝 How I work

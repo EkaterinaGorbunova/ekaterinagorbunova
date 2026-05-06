@@ -83,6 +83,82 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 ### ⚒️ Projects
 
 <table cellpadding="0">
+  <tr>
+    <td valign="top" width="33%">
+      <p><strong>Multiplayer VR Game Platform</strong></p>
+      <p>Next.js, Node.js, Socket.IO, AWS</p>
+      <a href="https://dev.forged.net/" target="_blank">
+        <img src="img/forged.webp" width="256" alt="Forged VR Game Platform"/>
+      </a>
+      <p>
+        <a href="https://dev.forged.net/">Demo</a> · 
+        <a href="https://store.steampowered.com/app/1125920/Forged/">Steam</a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <p><strong>3D Avatar Generator</strong></p>
+      <p>Three.js, WebGL, Morph Targets</p>
+      <a href="https://avatar-expressions.vercel.app/" target="_blank">
+        <img src="img/avatar.webp" width="256" alt="3D Avatar Generator"/>
+      </a>
+    </td>
+    <td valign="top" width="33%">
+      <p><strong>E-commerce Platform</strong></p>
+      <p>Next.js, PostgreSQL, Prisma, Stripe</p>
+      <a href="https://eclair-marketplace.vercel.app/" target="_blank">
+        <img src="img/eclair.webp" width="256" alt="E-commerce Platform"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <p><strong>Real-Time Chat with Crypto Wallet</strong></p>
+      <p>Next.js, Ethers.js, Vercel</p>
+      <a href="https://real-time-web3-chat.vercel.app/" target="_blank">
+        <img src="img/real-time-chat.webp" width="256" alt="Real-Time Chat"/>
+      </a>
+    </td>
+    <td valign="top" width="33%">
+      <p><strong>Web Scraping App</strong></p>
+      <p>Next.js 14, MongoDB, Bright Data</p>
+      <a href="https://pricewatcher-bcliquor.vercel.app" target="_blank">
+        <img src="img/scraping.webp" width="256" alt="Web Scraping App"/>
+      </a>
+    </td>
+    <td valign="top" width="33%">
+      <p><strong>Search Movie App</strong></p>
+      <p>React, Tailwind CSS, Vercel</p>
+      <a href="https://movie-hunt-mauve.vercel.app/" target="_blank">
+        <img src="img/search-movie.webp" width="256" alt="Search Movie App"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <p><strong>Ticketing System App</strong></p>
+      <p>Next.js, Tailwind CSS, MongoDB</p>
+      <a href="https://ticket-app-lemon.vercel.app/" target="_blank">
+        <img src="img/ticket.webp" width="256" alt="Ticketing System App"/>
+      </a>
+    </td>
+    <td valign="top" width="33%">
+      <p><strong>Burger House App</strong></p>
+      <p>Angular, TypeScript, Stripe, Netlify</p>
+      <a href="https://burger-house-express.netlify.app" target="_blank">
+        <img src="img/burger-house.webp" width="256" alt="Burger House App"/>
+      </a>
+    </td>
+    <td valign="top" width="33%">
+      <p><strong>Winery Nectars App</strong></p>
+      <p>JavaScript, Sass, Gulp, Netlify</p>
+      <a href="https://winery-noble-nectars.netlify.app" target="_blank">
+        <img src="img/winery.webp" width="256" alt="Winery Nectars App"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top">
       <p><strong>Multiplayer VR Game Platform</strong></p>
@@ -102,12 +178,15 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
       </a>
     </td>
     <td valign="top">
-      <p>Search Movie App</p>
-      <p>React, Tailwind CSS, Vercel</p>
-      <a href="https://movie-hunt-mauve.vercel.app/" target="_blank">
-          <img src="img/search-movie.webp" width="256" alt="Search Movie App"/>    
-      </a>
-    </td>
+    <p><strong>E-commerce Platform</strong></p>
+    <p>Next.js, PostgreSQL, Prisma, Stripe</p>
+    <a href="https://eclair-marketplace.vercel.app/" target="_blank">
+      <img src="img/eclair.webp" width="256" alt="E-commerce Platform"/>
+    </a>
+    <p>
+      <a href="https://eclair-marketplace.vercel.app/">Demo</a> · 
+    </p>
+  </td>
   </tr>
   <tr style="padding: 0">
     <td valign="top">
@@ -117,14 +196,14 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
           <img src="img/real-time-chat.webp" width="256" alt="Chat"/>    
       </a>
     </td>
-        <td valign="top">
-      <p>Burger House App</p>
-      <p>Angular, TypeScript, Stripe, Netlify</p>
-      <a href="https://burger-house-express.netlify.app" target="_blank">
-          <img src="img/burger-house.webp" width="256" alt="Burger"/>    
+    <td valign="top">
+      <p><strong>3D Avatar Generator</strong></p>
+      <p>Three.js, WebGL, ARKit Blend Shapes</p>
+      <a href="https://avatar-expressions.vercel.app/" target="_blank">
+        <img src="img/avatar.webp" width="256" alt="3D Avatar Generator"/>
       </a>
     </td>
-        <td valign="top">
+    <td valign="top">
       <p>Winery Nectars App</p>
       <p>JavaScript, Sass, Gulp, Netlify</p>
       <a href="https://winery-noble-nectars.netlify.app" target="_blank">
@@ -132,6 +211,23 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
       </a>
     </td>
   </tr>
+    <td valign="top">
+      <p>Burger House App</p>
+      <p>Angular, TypeScript, Stripe, Netlify</p>
+      <a href="https://burger-house-express.netlify.app" target="_blank">
+          <img src="img/burger-house.webp" width="256" alt="Burger"/>    
+      </a>
+    </td>
+  <tr style="padding: 0">
+      <td valign="top">
+      <p>Search Movie App</p>
+      <p>React, Tailwind CSS, Vercel</p>
+      <a href="https://movie-hunt-mauve.vercel.app/" target="_blank">
+          <img src="img/search-movie.webp" width="256" alt="Search Movie App"/>    
+      </a>
+    </td>
+    <td valign="top">
+  </tr>
   <tr style="padding: 0">
   </tr>
-</table>
+</table> -->

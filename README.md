@@ -157,3 +157,22 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
     </td>
   </tr>
 </table>
+
+### 🤝 How I work
+
+A few things I've learned the hard way:
+
+- **The boring parts are the load-bearing ones.** Retries, timeouts,
+  idempotency, alerting — that's what keeps a system standing on a
+  bad Tuesday. I treat them as features, not chores.
+- **"Done" means it works in production, not on my machine.** I'm not
+  done when the PR merges. I'm done when I've watched it survive real
+  traffic and the dashboards stay green.
+- **Cost is a design constraint.** Cloud bills, build times, on-call
+  noise — they all compound. I try to make choices that don't quietly
+  bleed the team.
+- **Speed comes from clarity, not from skipping steps.** A 10-minute
+  conversation up front saves a 3-day rewrite. I ask early, scope
+  small, and ship in slices.
+- **I write for the next person.** The next person is usually me, six
+  months later, with no memory of why I did it that way.

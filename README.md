@@ -23,17 +23,17 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 
 #
 
-#### 🚀 What I've shipped
+### 🚀 What I've shipped
 
 **Web Development**
-- E-commerce platform with product catalog, cart, checkout, and webhook-based order processing ([live demo](https://eclair-marketplace.vercel.app/))
+- E-commerce platform with product catalog, cart, checkout and webhook-based order processing ([live demo](https://eclair-marketplace.vercel.app/))
 - Price tracking tool with scheduled data collection and historical analysis ([live demo](https://pricewatcher-bcliquor.vercel.app/))
 - Web platform for a multiplayer VR game: auth, in-game economy, battle history dashboard ([Forged](https://dev.forged.net/))
 - Real-time chat with wallet authentication, ENS lookup and ETH tipping ([live demo](https://real-time-web3-chat.vercel.app/))
 
 **QA & Test Automation**
 - Built a full GraphQL Web3 API validation framework from scratch: schema diffing, breaking-change detection, data-integrity checks across 6+ EVM networks, 100% root Query field coverage
-- Wrote 80+ automated test cases (sanity, smoke, regression, E2E) in Playwright, Jest, and Postman, executing 300+ data-integrity assertions against on-chain sources (Etherscan, RPC nodes)
+- Wrote 80+ automated test cases (sanity, smoke, regression, E2E) in Playwright, Jest and Postman, executing 300+ data-integrity assertions against on-chain sources (Etherscan, RPC nodes)
 - Automated the full test lifecycle via GitHub Actions: scheduled runs, Slack alerts, auto-published reports
 - Shipped an internal Next.js dashboard showing API coverage and data gaps, adopted by cross-functional teams as the release-readiness gate
 
@@ -45,9 +45,9 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 
 #
 
-#### 📈 Impact
+### 📈 Impact
 
-- Cut **API validation from hours to minutes** with scheduled GitHub Actions, Slack alerts, and auto-published reports
+- Cut **API validation from hours to minutes** with scheduled GitHub Actions, Slack alerts and auto-published reports
 - Dropped **Largest Contentful Paint from ~4s to under 1s** with Next.js SSR and caching, improving onboarding
 - Reduced **monthly AWS costs by ~40%** through autoscaling and idle-instance shutdown for UE5 dedicated servers
 - Cut **incident resolution from 15+ min to 2 min** via internal ops dashboard with one-click EC2 controls
@@ -55,7 +55,7 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 
 # 
 
-#### 🛠 Tech I work with
+### 🛠 Tech I work with
 
 **Frontend:** `TypeScript` `React` `Next.js` `Tailwind` `Framer Motion`
 
@@ -69,7 +69,7 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 
 #
 
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EkaterinaGorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact&hide_border=true" height="165" />
@@ -156,77 +156,3 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
     </td>
   </tr>
 </table>
-
-<!-- <table cellpadding="0">
-  <tr style="padding: 0">
-    <td valign="top">
-      <p><strong>Multiplayer VR Game Platform</strong></p>
-      <p>Next.js, Node.js, Socket.IO, AWS</p>
-      <p> 
-        <a href="https://store.steampowered.com/app/1125920/Forged/">Steam</a>
-      </p>
-      <a href="https://dev.forged.net/" target="_blank">
-        <img src="img/forged.webp" width="256" alt="Forged VR Game Platform"/>
-      </a>
-    </td>
-    <td valign="top">
-      <p>Web Scraping App</p>
-      <p>NextJS 14, MongoDB, Bright Data</p>
-      <a href="https://pricewatcher-bcliquor.vercel.app" target="_blank">
-          <img src="img/scraping.webp" width="256" alt="Web Scraping App"/>    
-      </a>
-    </td>
-    <td valign="top">
-    <p><strong>E-commerce Platform</strong></p>
-    <p>Next.js, PostgreSQL, Prisma, Stripe</p>
-    <a href="https://eclair-marketplace.vercel.app/" target="_blank">
-      <img src="img/eclair.webp" width="256" alt="E-commerce Platform"/>
-    </a>
-    <p>
-      <a href="https://eclair-marketplace.vercel.app/">Demo</a> · 
-    </p>
-  </td>
-  </tr>
-  <tr style="padding: 0">
-    <td valign="top">
-      <p>Real-Time Chat with Crypto Wallet</p>
-      <p>NextJS, Ethers.js, Vercel</p>
-      <a href="https://real-time-web3-chat.vercel.app/" target="_blank">
-          <img src="img/real-time-chat.webp" width="256" alt="Chat"/>    
-      </a>
-    </td>
-    <td valign="top">
-      <p><strong>3D Avatar Generator</strong></p>
-      <p>Three.js, WebGL, ARKit Blend Shapes</p>
-      <a href="https://avatar-expressions.vercel.app/" target="_blank">
-        <img src="img/avatar.webp" width="256" alt="3D Avatar Generator"/>
-      </a>
-    </td>
-    <td valign="top">
-      <p>Winery Nectars App</p>
-      <p>JavaScript, Sass, Gulp, Netlify</p>
-      <a href="https://winery-noble-nectars.netlify.app" target="_blank">
-          <img src="img/winery.webp" width="256" alt="Winery Nectars App"/>    
-      </a>
-    </td>
-  </tr>
-    <td valign="top">
-      <p>Burger House App</p>
-      <p>Angular, TypeScript, Stripe, Netlify</p>
-      <a href="https://burger-house-express.netlify.app" target="_blank">
-          <img src="img/burger-house.webp" width="256" alt="Burger"/>    
-      </a>
-    </td>
-  <tr style="padding: 0">
-      <td valign="top">
-      <p>Search Movie App</p>
-      <p>React, Tailwind CSS, Vercel</p>
-      <a href="https://movie-hunt-mauve.vercel.app/" target="_blank">
-          <img src="img/search-movie.webp" width="256" alt="Search Movie App"/>    
-      </a>
-    </td>
-    <td valign="top">
-  </tr>
-  <tr style="padding: 0">
-  </tr>
-</table> -->

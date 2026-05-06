@@ -31,7 +31,6 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 - E-commerce platform with product catalog, cart, checkout and webhook-based order processing ([live demo](https://eclair-marketplace.vercel.app/))
 - Price tracking tool with scheduled data collection and historical analysis ([live demo](https://pricewatcher-bcliquor.vercel.app/))
 
-
 **QA & Test Automation**
 - Built a full GraphQL Web3 API validation framework from scratch: schema diffing, breaking-change detection, data-integrity checks across 6+ EVM networks, 100% root Query field coverage
 - Wrote 80+ automated test cases (sanity, smoke, regression, E2E) in Playwright, Jest and Postman, executing 300+ data-integrity assertions against on-chain sources (Etherscan, RPC nodes)
@@ -87,9 +86,9 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
   <tr>
     <td valign="top" width="33%">
       <p><strong>Multiplayer VR Game Platform</strong></p>
-      <p>Next.js, Node.js, Socket.IO, AWS</p>
+      <p>Next.js, Node, Socket, AWS</p>
       <p>
-        <a href="https://store.steampowered.com/app/1125920/Forged/">Game on Steam</a>
+        <a href="https://store.steampowered.com/app/1125920/Forged/">Steam</a>
       </p>
       <a href="https://dev.forged.net/" target="_blank">
         <img src="img/forged.webp" width="256" alt="Forged VR Game Platform"/>
@@ -112,8 +111,8 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <p><strong>Web Scraping App</strong></p>
-      <p>Next.js 14, MongoDB, Bright Data</p>
+      <p><strong>Web Scraping</strong></p>
+      <p>Next.js, MongoDB, Bright Data</p>
       <a href="https://pricewatcher-bcliquor.vercel.app" target="_blank">
         <img src="img/scrape.webp" width="256" alt="Web Scraping App"/>
       </a>
@@ -160,19 +159,36 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 
 ### 🤝 How I work
 
+I've spent most of my career in **small teams**. I'm used to being **the first or only engineer** on a domain.
+
 A few things I've learned the hard way:
 
 - **The boring parts are the load-bearing ones.** Retries, timeouts,
-  idempotency, alerting — that's what keeps a system standing on a
+  idempotency, alerting - that's what keeps a system standing on a
   bad Tuesday. I treat them as features, not chores.
 - **"Done" means it works in production, not on my machine.** I'm not
   done when the PR merges. I'm done when I've watched it survive real
   traffic and the dashboards stay green.
 - **Cost is a design constraint.** Cloud bills, build times, on-call
-  noise — they all compound. I try to make choices that don't quietly
+  noise - they all compound. I try to make choices that don't quietly
   bleed the team.
 - **Speed comes from clarity, not from skipping steps.** A 10-minute
   conversation up front saves a 3-day rewrite. I ask early, scope
   small, and ship in slices.
 - **I write for the next person.** The next person is usually me, six
   months later, with no memory of why I did it that way.
+
+### 📬 Let's talk
+
+I'm open to **full-stack roles, contract work and interesting
+0 → 1 projects**, especially anything involving real-time systems,
+game tech or Web3 infrastructure.
+
+- 💼 **LinkedIn:** [linkedin.com/in/egorbunova](https://linkedin.com/in/egorbunova)
+- 🌐 **GitHub:** you're already here 👋
+
+Thanks for reading this far.
+
+<p align="center">
+  <sub>Built with care in Vancouver 🇨🇦</sub>
+</p>

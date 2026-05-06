@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/egorbunova/" target="_blank"><img src="img/banner_egorbunova.png" alt="Ekaterina Gorbunova baner"></a>
+<a href="https://www.linkedin.com/in/egorbunova/" target="_blank"><img src="img/banner_egorbunova.png" alt="Ekaterina Gorbunova banner"></a>
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -13,9 +13,15 @@
 
 ### Hey there 👋 I'm Ekaterina
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/egorbunova)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://ekaterina-gorbunova.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ekaterina.a.gorbunova@gmail.com)
+
 Full-Stack Software Engineer based in Vancouver, with 5+ years of experience building web/web3 platforms, real-time game infrastructure and test automation frameworks.
 
 I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript** and **AWS**. I'm equally comfortable shipping production features, building QA frameworks from scratch and owning cloud infrastructure end-to-end.
+
+#
 
 #### 🚀 What I've shipped
 
@@ -37,6 +43,8 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 - 3D NFT avatar system with 63 ARKit blend shapes and real-time facial animation in the browser ([live demo](https://avatar-expressions.vercel.app/))
 - Full-stack NFT dApp shipped in 2 weeks (3-person team): smart contracts, IPFS storage, 100+ daily mints
 
+#
+
 #### 📈 Impact
 
 - Cut **API validation from hours to minutes** with scheduled GitHub Actions, Slack alerts, and auto-published reports
@@ -44,6 +52,8 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 - Reduced **monthly AWS costs by ~40%** through autoscaling and idle-instance shutdown for UE5 dedicated servers
 - Cut **incident resolution from 15+ min to 2 min** via internal ops dashboard with one-click EC2 controls
 - Achieved **100% root Query field coverage** on a GraphQL API that previously had zero automated testing
+
+# 
 
 #### 🛠 Tech I work with
 
@@ -61,8 +71,6 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 
 #### 📊 GitHub Stats
 
-<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)-->
-
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EkaterinaGorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=EkaterinaGorbunova&theme=github-dark-blue&hide_border=true" height="165" />
@@ -72,27 +80,26 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 
 #
 
-<br>
-
-<!--  [<img src='https://img.shields.io/badge/LinkedIn-Blue?style=social&logo=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/egorbunova/) -->
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/egorbunova/)
-
 ### ⚒️ Projects
 
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top">
+  <p><strong>Multiplayer VR Game Platform</strong></p>
+  <p>Next.js, Node.js, Socket.IO, AWS</p>
+  <a href="https://dev.forged.net/" target="_blank">
+    <img src="img/forged.webp" width="256" alt="Forged VR Game Platform"/>
+  </a>
+  <p>
+    <a href="https://dev.forged.net/">Demo</a> · 
+    <a href="https://store.steampowered.com/app/1125920/Forged/">Steam</a>
+  </p>
+</td>
+    <td valign="top">
       <p>Web Scraping App</p>
       <p>NextJS 14, MongoDB, Bright Data</p>
       <a href="https://pricewatcher-bcliquor.vercel.app" target="_blank">
           <img src="img/scraping.webp" width="256" alt="Web Scraping App"/>    
-      </a>
-    </td>
-    <td valign="top">
-      <p>Burger House App</p>
-      <p>Angular, TypeScript, Stripe, Netlify</p>
-      <a href="https://burger-house-express.netlify.app" target="_blank">
-          <img src="img/burger-house.webp" width="256" alt="Burger"/>    
       </a>
     </td>
     <td valign="top">
@@ -102,13 +109,6 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
           <img src="img/search-movie.webp" width="256" alt="Search Movie App"/>    
       </a>
     </td>
-<!--     <td valign="top">
-      <p>Camplifestyle App</p>
-      <p>React, GSAP, Tailwind CSS, Netlify</p>
-      <a href="https://camplifestyle-spa.netlify.app" target="_blank">
-          <img src="img/camplifestyle.webp" width="256" alt="Camplifestyle"/>    
-      </a>
-    </td> -->
   </tr>
   <tr style="padding: 0">
     <td valign="top">
@@ -118,11 +118,11 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
           <img src="img/real-time-chat.webp" width="256" alt="Chat"/>    
       </a>
     </td>
-    <td valign="top">
-      <p>Ticketing System App</p>
-      <p>NextJS, Tailwind CSS, MongoDB</p>
-      <a href="https://ticket-app-lemon.vercel.app/" target="_blank">
-          <img src="img/ticket.webp" width="256" alt="Ticket"/>    
+        <td valign="top">
+      <p>Burger House App</p>
+      <p>Angular, TypeScript, Stripe, Netlify</p>
+      <a href="https://burger-house-express.netlify.app" target="_blank">
+          <img src="img/burger-house.webp" width="256" alt="Burger"/>    
       </a>
     </td>
         <td valign="top">
@@ -133,51 +133,6 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
       </a>
     </td>
   </tr>
-  <tr style="padding: 0">    
-<!--     <td valign="top">
-      <p>Quiz App</p>
-      <p>HTML, CSS, JS, Glitch</p>
-            <a href="https://quiz-devapp.glitch.me" target="_blank">
-          <img src="img/quiz.webp" width="256" alt="Quiz"/>    
-      </a>
-    </td> -->
-<!--     <td valign="top">
-      <p>Lawyers Office App</p>
-      <p>HTML, CSS, Netlify</p>
-      <a href="https://lawyers-office.netlify.app" target="_blank">
-          <img src="img/lawyers-office.webp" width="256" alt="Lawyers Office"/>    
-      </a>
-    </td> -->
-<!--     <td valign="top">
-      <p>Peach Bakery App</p>
-      <p>HTML, GSAP, CSS, Netlify</p>
-      <a href="https://peach-bakery-store.netlify.app" target="_blank">
-          <img src="img/peach-bakery.webp" width="256" alt="Peach Bakeryl"/>    
-      </a>
-    </td> -->
-<!--     <td valign="top">
-      <p>3D Animated Model</p>
-      <p>ThreeJS, Netlify</p>
-      <a href="https://threejs-point-light.netlify.app" target="_blank">
-          <img src="img/threejs-point-light.gif" width="256" alt="3D Model"/>    
-      </a>
-    </td> -->
+  <tr style="padding: 0">
   </tr>
 </table>
-
-
-
-<!--
-**EkaterinaGorbunova/ekaterinagorbunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

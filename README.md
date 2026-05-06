@@ -85,16 +85,15 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top">
-  <p><strong>Multiplayer VR Game Platform</strong></p>
-  <p>Next.js, Node.js, Socket.IO, AWS</p>
-  <a href="https://dev.forged.net/" target="_blank">
-    <img src="img/forged.webp" width="256" alt="Forged VR Game Platform"/>
-  </a>
-  <p>
-    <a href="https://dev.forged.net/">Demo</a> · 
-    <a href="https://store.steampowered.com/app/1125920/Forged/">Steam</a>
-  </p>
-</td>
+      <p><strong>Multiplayer VR Game Platform</strong></p>
+      <p>Next.js, Node.js, Socket.IO, AWS</p>
+      <p> 
+        <a href="https://store.steampowered.com/app/1125920/Forged/">Steam</a>
+      </p>
+      <a href="https://dev.forged.net/" target="_blank">
+        <img src="img/forged.webp" width="256" alt="Forged VR Game Platform"/>
+      </a>
+    </td>
     <td valign="top">
       <p>Web Scraping App</p>
       <p>NextJS 14, MongoDB, Bright Data</p>

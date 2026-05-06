@@ -180,9 +180,16 @@ A few things I've learned the hard way:
 
 ### 📬 Let's talk
 
-I'm open to **full-stack roles, contract work and interesting
-0 → 1 projects**, especially anything involving real-time systems,
-game tech or Web3 infrastructure.
+I’m always happy to talk about **real-time systems**, **web platforms**, **game infrastructure**, and **Web3**, or just trade notes on shipping software in small, fast-moving teams.
+
+I’m open to **full-stack roles**, **contract work** and both **0 → 1 builds** and **re-architecture efforts**.
+
+Especially interested in:
+- modern web architecture  
+- real-time systems  
+- system design & re-architecture  
+- game tech  
+- Web3 infrastructure  
 
 - 💼 **LinkedIn:** [linkedin.com/in/egorbunova](https://linkedin.com/in/egorbunova)
 - 🌐 **GitHub:** you're already here 👋

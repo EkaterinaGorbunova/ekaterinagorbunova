@@ -1,10 +1,29 @@
 <a href="https://www.linkedin.com/in/egorbunova/" target="_blank"><img src="img/banner_egorbunova.png" alt="Ekaterina Gorbunova baner"></a>
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+#
 
 ### Hey there 👋 I'm Ekaterina
+
 Full-Stack Software Engineer based in Vancouver, with 5+ years of experience building web/web3 platforms, real-time game infrastructure and test automation frameworks.
 
 I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript** and **AWS**. I'm equally comfortable shipping production features, building QA frameworks from scratch and owning cloud infrastructure end-to-end.
-
 
 #### 🚀 What I've shipped
 
@@ -46,14 +65,26 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 
 **Game & Graphics:** `Three.js` `WebGL` `UE5` `Pixel Streaming` `Socket.IO`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)
+#
+
+#### 📊 GitHub Stats
+
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinagorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact)-->
+
+<p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EkaterinaGorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=EkaterinaGorbunova&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=EkaterinaGorbunova&theme=darkhub&no-frame=true&row=1&column=6)
+
+#
 
 <br>
 
 <!--  [<img src='https://img.shields.io/badge/LinkedIn-Blue?style=social&logo=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/egorbunova/) -->
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/egorbunova/)
 
-#
 ### ⚒️ Projects
 
 <table cellpadding="0">

@@ -87,13 +87,12 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
     <td valign="top" width="33%">
       <p><strong>Multiplayer VR Game Platform</strong></p>
       <p>Next.js, Node.js, Socket.IO, AWS</p>
+      <p>
+        <a href="https://store.steampowered.com/app/1125920/Forged/">Game on Steam</a>
+      </p>
       <a href="https://dev.forged.net/" target="_blank">
         <img src="img/forged.webp" width="256" alt="Forged VR Game Platform"/>
       </a>
-      <p>
-        <a href="https://dev.forged.net/">Demo</a> · 
-        <a href="https://store.steampowered.com/app/1125920/Forged/">Steam</a>
-      </p>
     </td>
     <td valign="top" width="33%">
       <p><strong>3D Avatar Generator</strong></p>
@@ -102,27 +101,27 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
         <img src="img/avatar.webp" width="256" alt="3D Avatar Generator"/>
       </a>
     </td>
-    <td valign="top" width="33%">
-      <p><strong>E-commerce Platform</strong></p>
-      <p>Next.js, PostgreSQL, Prisma, Stripe</p>
-      <a href="https://eclair-marketplace.vercel.app/" target="_blank">
-        <img src="img/eclair.webp" width="256" alt="E-commerce Platform"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
+      <td valign="top" width="33%">
       <p><strong>Real-Time Chat with Crypto Wallet</strong></p>
       <p>Next.js, Ethers.js, Vercel</p>
       <a href="https://real-time-web3-chat.vercel.app/" target="_blank">
         <img src="img/real-time-chat.webp" width="256" alt="Real-Time Chat"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="33%">
       <p><strong>Web Scraping App</strong></p>
       <p>Next.js 14, MongoDB, Bright Data</p>
       <a href="https://pricewatcher-bcliquor.vercel.app" target="_blank">
         <img src="img/scraping.webp" width="256" alt="Web Scraping App"/>
+      </a>
+    </td>
+    <td valign="top" width="33%">
+      <p><strong>E-commerce Platform</strong></p>
+      <p>Next.js, PostgreSQL, Prisma, Stripe</p>
+      <a href="https://eclair-marketplace.vercel.app/" target="_blank">
+        <img src="img/eclair.webp" width="256" alt="E-commerce Platform"/>
       </a>
     </td>
     <td valign="top" width="33%">

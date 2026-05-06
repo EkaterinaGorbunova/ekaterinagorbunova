@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/egorbunova/" target="_blank"><img src="img/banner_egorbunova.png" alt="Ekaterina Gorbunova baner"></a>
 
 ### Hey there 👋 I'm Ekaterina
-Full-Stack Software Engineer based in Vancouver, Canada, with 5+ years of experience building web/web3 platforms, real-time game infrastructure and test automation frameworks.
+Full-Stack Software Engineer based in Vancouver, with 5+ years of experience building web/web3 platforms, real-time game infrastructure and test automation frameworks.
 
 I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript** and **AWS**. I'm equally comfortable shipping production features, building QA frameworks from scratch and owning cloud infrastructure end-to-end.
 

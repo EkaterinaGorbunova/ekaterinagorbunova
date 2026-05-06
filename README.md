@@ -102,7 +102,7 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
       </a>
     </td>
       <td valign="top" width="33%">
-      <p><strong>Real-Time Chat with Crypto Wallet</strong></p>
+      <p><strong>Real-Time Chat with Web3 Wallet</strong></p>
       <p>Next.js, Ethers.js, Vercel</p>
       <a href="https://real-time-web3-chat.vercel.app/" target="_blank">
         <img src="img/real-time-chat.webp" width="256" alt="Real-Time Chat"/>
@@ -119,7 +119,7 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
     </td>
     <td valign="top" width="33%">
       <p><strong>E-commerce Platform</strong></p>
-      <p>Next.js, PostgreSQL, Prisma, Stripe</p>
+      <p>Next.js, PostgreSQL, Stripe</p>
       <a href="https://eclair-marketplace.vercel.app/" target="_blank">
         <img src="img/eclair.webp" width="256" alt="E-commerce Platform"/>
       </a>

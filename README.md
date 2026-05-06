@@ -9,7 +9,7 @@ I work across the whole stack with **Next.js/React**, **Node.js**, **TypeScript*
 #### 🚀 What I've shipped
 
 **Web Development**
-- E-commerce platform with product catalog, cart, checkout, and webhook-based order processing ([live demo](eclair-marketplace.vercel.app))
+- E-commerce platform with product catalog, cart, checkout, and webhook-based order processing ([live demo](https://eclair-marketplace.vercel.app/))
 - Price tracking tool with scheduled data collection and historical analysis ([live demo](https://pricewatcher-bcliquor.vercel.app/))
 - Web platform for a multiplayer VR game: auth, in-game economy, battle history dashboard ([Forged](https://dev.forged.net/))
 - Real-time chat with wallet authentication, ENS lookup and ETH tipping ([live demo](https://real-time-web3-chat.vercel.app/))

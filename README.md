@@ -114,7 +114,7 @@ I work across the whole stack with Next.js/React, Node.js, TypeScript and AWS. I
   <img src="https://streak-stats.demolab.com?user=EkaterinaGorbunova&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=EkaterinaGorbunova&theme=darkhub&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy-phi-one.vercel.app/?username=EkaterinaGorbunova&theme=darkhub&no-frame=true&row=1&column=6)
 
 #
 

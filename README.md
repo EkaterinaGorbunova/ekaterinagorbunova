@@ -220,6 +220,7 @@ A few things I've learned the hard way:
 
 I’m always happy to talk about real-time systems, web platforms, game infrastructure, and Web3, or just trade notes on shipping software in small, fast-moving teams.
 
+<!--
 I’m open to full-stack roles, contract work and both 0 → 1 builds and re-architecture efforts.
 
 Especially interested in:
@@ -227,7 +228,8 @@ Especially interested in:
 - real-time systems  
 - system design & re-architecture  
 - game tech  
-- Web3 infrastructure  
+- Web3 infrastructure
+-->
 
 💼 **LinkedIn:** [linkedin.com/in/egorbunova](https://linkedin.com/in/egorbunova)
 

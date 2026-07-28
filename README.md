@@ -1,4 +1,6 @@
 <a href="https://www.linkedin.com/in/egorbunova/" target="_blank"><img src="img/banner_egorbunova.png" alt="Ekaterina Gorbunova banner"></a>
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Driving+innovation+across+the+full+stack" alt="Typing SVG" /> </a>
+</br>
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -112,10 +114,10 @@ I work across the whole stack with Next.js/React, Node.js, TypeScript and AWS. I
 
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EkaterinaGorbunova&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&layout=compact&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=EkaterinaGorbunova&theme=github-dark-blue&hide_border=true" height="165" />
+  <!-- <img src="https://streak-stats.demolab.com?user=EkaterinaGorbunova&theme=github-dark-blue&hide_border=true" height="165" /> -->
 </p>
 
-![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=EkaterinaGorbunova&theme=darkhub&no-frame=true&row=1&column=6)
+![Trophies](http://trophy.ryglcloud.net/?username=EkaterinaGorbunova&theme=darkhub&no-frame=true&row=1&column=6)
 
 #
 

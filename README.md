@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/egorbunova/" target="_blank"><img src="img/banner_egorbunova.png" alt="Ekaterina Gorbunova banner"></a>
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Driving+innovation+across+the+full+stack" alt="Typing SVG" /> </a>
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Driving+innovation+across+the+full+stack..." alt="Typing SVG" /> </a>
 </br>
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

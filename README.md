@@ -79,7 +79,7 @@ I work across the whole stack with Next.js/React, Node.js, TypeScript and AWS. I
 - Shipped an internal Next.js dashboard showing API coverage and data gaps, adopted by cross-functional teams as the release-readiness gate
 
 **Game Tech**
-- Real-time matchmaking and session-sync backend handling 100+ concurrent players for a multiplayer VR game
+- Real-time matchmaking and session-sync backend handling 200+ concurrent players for a multiplayer VR game
 - In-browser cloud gaming via UE5 Pixel Streaming on Dockerized EC2, removing multi-GB client downloads
 - 3D NFT avatar system with 63 ARKit blend shapes and real-time facial animation in the browser ([live demo](https://avatar-expressions.vercel.app/))
 - Full-stack NFT dApp shipped in 2 weeks (3-person team): smart contracts, IPFS storage, 100+ daily mints
@@ -89,7 +89,7 @@ I work across the whole stack with Next.js/React, Node.js, TypeScript and AWS. I
 ### 📈 Impact
 
 - Cut API validation from hours to minutes with scheduled GitHub Actions, Slack alerts and auto-published reports
-- Dropped Largest Contentful Paint from ~4s to under 1s with Next.js SSR and caching, improving onboarding
+- Dropped Largest Contentful Paint from ~8s to under 1s with Next.js SSR and caching, improving onboarding
 - Reduced monthly AWS costs by ~40% through autoscaling and idle-instance shutdown for UE5 dedicated servers
 - Cut incident resolution from 15+ min to 2 min via internal ops dashboard with one-click EC2 controls
 - Achieved 100% root Query field coverage on a GraphQL API that previously had zero automated testing

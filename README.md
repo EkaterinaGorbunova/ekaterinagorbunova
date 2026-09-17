@@ -100,13 +100,15 @@ I work across the whole stack with Next.js/React, Node.js, TypeScript and AWS. I
 
 **Frontend:** `TypeScript` `React` `Next.js` `Tailwind` `Framer Motion`
 
-**Backend:** `Node.js` `Express` `REST` `GraphQL` `MongoDB` `PostgreSQL` `Docker`
+**Backend:** `Node.js` `Express` `REST` `GraphQL` `Socket.IO` `Stripe` `MongoDB` `PostgreSQL` `Docker`
 
-**QA & Testing:** `Playwright` `Jest` `Postman` `Slack integrations` `Test Reporting Pipelines`
+**QA & Testing:** `Playwright` `Jest` `Postman` `Test Reporting Pipelines`
 
 **Cloud & CI/CD:** `AWS (EC2, Lambda, DynamoDB, Cognito, S3)` `GitHub Actions` `Vercel`
 
-**Game & Graphics:** `Three.js` `WebGL` `UE5` `Pixel Streaming` `Socket.IO`
+**Game & Graphics:** `UE5` `Pixel Streaming` `Three.js` `WebGL`
+
+**AI & Desktop:** `Claude API` `MCP` `AI coding agents` `Rust (Tauri)`
 
 #
 

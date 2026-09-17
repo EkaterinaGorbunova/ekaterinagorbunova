@@ -62,6 +62,8 @@ Full-Stack Software Engineer based in Vancouver, with 5+ years of experience in 
 
 I work across the whole stack with Next.js/React, Node.js, TypeScript and AWS. I'm equally comfortable shipping production features, building QA frameworks from scratch and owning cloud infrastructure end-to-end.
 
+Besides coding, I love camping across British Columbia and Washington, cheering at my kids' hockey games, and 3D printing fidget toys.
+
 #
 
 ### 🚀 What I've shipped

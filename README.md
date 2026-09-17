@@ -91,7 +91,7 @@ I work across the whole stack with Next.js/React, Node.js, TypeScript and AWS. I
 - Cut API validation from hours to minutes with scheduled GitHub Actions, Slack alerts and auto-published reports
 - Dropped Largest Contentful Paint from ~8s to under 1s with Next.js SSR and caching, improving onboarding
 - Reduced monthly AWS costs by ~40% through autoscaling and idle-instance shutdown for UE5 dedicated servers
-- Cut incident resolution from 15+ min to 2 min via internal ops dashboard with one-click EC2 controls
+- Cut average incident resolution time by more than 85% by building an internal ops tool with one-click EC2 controls
 - Achieved 100% root Query field coverage on a GraphQL API that previously had zero automated testing
 
 # 

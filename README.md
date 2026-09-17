@@ -67,14 +67,19 @@ I work across the whole stack with Next.js/React, Node.js, TypeScript and AWS. I
 ### 🚀 What I've shipped
 
 **Web Development**
-- Web platform for a multiplayer VR game: auth, in-game economy, battle history dashboard ([Forged](https://dev.forged.net/))
+- Web platform for a multiplayer VR game: auth, hero purchases with Stripe, battle history powered by a serverless match results pipeline ([Forged](https://dev.forged.net/))
 - Real-time chat with wallet authentication, ENS lookup and ETH tipping ([live demo](https://real-time-web3-chat.vercel.app/))
 - E-commerce platform with product catalog, cart, checkout and webhook-based order processing ([live demo](https://eclair-marketplace.vercel.app/))
 - Price tracking tool with scheduled data collection and historical analysis ([live demo](https://pricewatcher-bcliquor.vercel.app/))
 
+**AI & Desktop**
+- AI habit coach for Telegram that turns chat messages into timezone-aware reminders, built on a serverless backend with the Claude API
+- Migrated an AI creator chat from a Roblox Studio plugin to a Tauri/Rust desktop app, with MCP communication between web, desktop and Roblox Studio
+- Debug logging API that gives AI agents direct access to app logs, so they can run and debug the app on their own
+
 **QA & Test Automation**
 - Built a full GraphQL Web3 API validation framework from scratch: schema diffing, breaking-change detection, data-integrity checks across 6+ EVM networks, 100% root Query field coverage
-- Wrote 80+ automated test cases (sanity, smoke, regression, E2E) in Playwright, Jest and Postman, executing 300+ data-integrity assertions against on-chain sources (Etherscan, RPC nodes)
+- Wrote 200+ automated test cases (sanity, smoke, regression, E2E) in Playwright, Jest and Postman, executing 500+ data-integrity checks against on-chain sources (Etherscan, RPC nodes)
 - Automated the full test lifecycle via GitHub Actions: scheduled runs, Slack alerts, auto-published reports
 - Shipped an internal Next.js dashboard showing API coverage and data gaps, adopted by cross-functional teams as the release-readiness gate
 
